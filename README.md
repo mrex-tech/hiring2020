@@ -15,6 +15,12 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Zscaler|US|Internship|<ul><li>[Business Value Analyst Intern (Summer 2020)](https://jobs.jobvite.com/zscaler/job/oTqtcfwI)</li></ul>|
+|Paradox|US|Internship|<ul><li>[Software Product Management Intern](https://careers.paradox.ai/software-product-management-intern/job/12670134)</li></ul>|
+|Jam City|US|Internship|<ul><li>[Multiple](https://jobs.lever.co/jamcity?commitment=Internship)</li></ul>|
+|athenahealth|US|Internship|<ul><li>[MBA Internship](https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Watertown-MA/MBA-Internship_R946)</li></ul>|
+|Spoiler Alert|US|Internship|<ul><li>[MBA Summer Intern](https://spoileralertcareers.recruiterbox.com/jobs/fk0qskc/)</li></ul>|
+|Rowan|US|Internship|<ul><li>[Summer 2020 - MBA Intern](https://jobs.lever.co/heyrowan/a89e5c2f-384c-4f14-bcdf-da794e64a1eb)</li></ul>|
 |Atlassian|US|Full-time|<ul><li>[Online Marketing Associate - 2020 Graduate](https://www.atlassian.com/company/careers/detail/55d4a13a-1b90-4436-a0fd-2b95fbd44902)</li></ul>|
 |Atlassian|US|Full-time|<ul><li>[Business Systems Analyst, 2020 Graduate](https://www.atlassian.com/company/careers/detail/8ecdc0dc-79e4-4f2f-9d1a-6b0a3076fcf9)</li></ul>|
 |Asana|US|Full-time|<ul><li>[New Graduate: Software Engineering](https://asana.com/jobs/apply/1793586/new-graduate--software-engineering)</li></ul>|
@@ -48,7 +54,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |UiPath|US|Internship|<ul><li>[Intern - Software Engineer (AI)](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-software-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-ml-research-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer II](https://jobs.lever.co/uipath/0ed92faf-f138-4229-83c8-e8a8b5fdad72)</li></ul>|
-|Piano|US|Internship|<ul><li>[Project Manager Summer Internship](https://hire.withgoogle.com/public/jobs/pianoio/view/P_AAAAAACAAEeN66xIkCJpcx)</li></ul>|
 |Malwarebytes|US|Internship|<ul><li>[Summer Associate (MBA) Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[Cost Analyst Intern, Global Operations](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[IT Intern, Data Services](https://boards.greenhouse.io/purestorage/jobs/2160168)</li></ul>|
@@ -84,7 +89,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Citadel|US|Internship & Full-time|<ul><li>[Multiple](https://www.citadel.com/careers/open-positions/positions-for-students/)</li></ul>|
 |Cisco Meraki|US|Full-time|<ul><li>[Multiple](https://meraki.cisco.com/jobs)</li></ul>|
 |Equinix|US|Internship|<ul><li>[Multiple](https://equinix.wd1.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be)</li></ul>|
-|EverQuote|US|Internship|<ul><li>[MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
 |Five Rings Capital|US|Internship & Full-time|<ul><li>[Multiple](https://fiverings.com/apply/)</li></ul>|
 |Frame.io|US|Full-time|<ul><li>[Multiple](https://careers.frame.io/#open-roles)</li></ul>|
@@ -107,12 +111,9 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Digital Product Design Intern](https://www.shopify.com/careers/digital-product-design-intern-fall-2020-868e44)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Digital Product Management MBA Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2034978)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Production Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2115044)</li></ul>|
-|Take-Two Interactive|US|Internship|<ul><li>[Third Party Risk Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2054899)</li></ul>|
 |Zippity Cars|US|Full-time|<ul><li>[Full-Stack Software Engineer](https://zippitycars.com/jobs/sweng)</li></ul>|
 |Zoom|US|Internship|<ul><li>[SDK Engineer Intern](https://jobs.lever.co/zoom/8a76f470-da4d-4e90-a341-8efd7de62878)</li></ul>|
-|Zoom|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/zoom)</li></ul>|
 |Zscaler|US|Internship|<ul><li>[Product Management Security Intern](https://jobs.jobvite.com/zscaler/job/oXYucfwl)</li></ul>|
-|Zscaler|US|Internship|<ul><li>[Product Management Data Protection Intern](https://jobs.jobvite.com/zscaler/job/oVYucfwj)</li></ul>|
 |Zynga|US|Internship|<ul><li>[Software Engineering Intern](https://www.zynga.com/job-listing/software-engineering-intern-summer-2020/)</li></ul>|
 |Zynga|US|Full-time|<ul><li>[New Grad Full-Time Rotational Software Engineer](https://www.zynga.com/job-listing/rotational-software-engineer-2/)</li></ul>|
 |Zynga|US|Full-time|<ul><li>[New Grad Full-Time Rotational Experience Designer](https://www.zynga.com/job-listing/rotational-experienced-designer/)</li></ul>|
@@ -146,7 +147,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Applied Medical|❌||
 |ArcelorMittal|❌||
 |Argonne National Laboratory|❌||
-|Arista|❌||
+|Arista Networks|❌|Entire internship program of 2020 cancelled|
 |Arthrex|❌||
 |atVenu|❌||
 |AXS|❌||
@@ -209,12 +210,14 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Downtown|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
+|Duff & Phelps|❌|2 weeks virtual; $3000 stipend|
 |Echostar|❌||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled|
 |Esri|❌||
 |EVERFI|❌||
 |Excellus Blue Cross Blue Shield|❌||
 |ExtraHop|❌||
+|Fedex|❌|FedEx Freight cancelled. FedEx Services postponed until Fall/Spring. Interns have option to pick either.|
 |Flipp|❌|Offers Rescinded|
 |Forbes|❌||
 |Formlabs|❌||
@@ -251,6 +254,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |iCIMS|❌||
 |IDEMIA|❌||
 |IDEO|❌|Ideo.org too|
+|IDEX|❌||
 |Idexx Laboratories|❌||
 |IGN|❌||
 |iHeartMedia|❌||
@@ -259,6 +263,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |InterSystems|❌||
 |Interbrand|❌||
 |IPG MediaBrands|❌||
+|IQVIA|❌||
 |JetBlue|❌|Deferred to Summer 2021.|
 |Jordan Blanchard Capital|❌||
 |Kabbage|❌||
@@ -413,6 +418,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Valkyrie Investments|❌||
 |Verily|❌||
 |Vergin Hyperloop One|❌||
+|Verso Booksv|❌||
 |Virgin Orbit|❌|Cancelled the whole program|
 |VMLY&R|❌||
 |Volvo|❌|Offers got Rescinded|
@@ -461,6 +467,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Apple|✅|Remote start for some. Start date pushed back for others. Depends on the team. More details to come.|
 |Appian|✅|Remote. Exact details still forthcoming, but they've committed to having it in some form thus far|
 |Ares Management|✅|Considering remote. Updates to follow.|
+|ARM|✅|Remote|
 |AT&T|✅|Going remote.|
 |Atlassian|✅|Going fully remote|
 |ASRC Federal|✅||
@@ -542,6 +549,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Dish Netowrks|✅|Hiring Freeze|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
+|DoorDash|✅|Remote.|
 |Dow|✅|Remote.|
 |DraftKings|✅|Will be in touch with more details|
 |Dropbox|✅||
@@ -564,7 +572,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Fandago|✅|Hiring Freeze|
 |Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration will be 6 weeks. All internship and full-time offers honored.|
 |FBI|✅|Reports that some internships are getting cancelled.|
-|Fedex|✅|FedEx Freight cancelled. FedEx Services postponed until Fall/Spring. Interns have option to pick either.|
 |Fiat/FCA|✅|Made internship virtual. Laptops being shipped. FCA intends for an end of internship summit at HQ to present work of the interns. Ten week program startimng from June 1.|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
@@ -643,7 +650,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Lori Friedman-Revolution Financial Management|✅||
 |Los Alamos National Labs|✅|Hiring Freeze|
 |Los Angeles Rams|✅|Hiring Freeze|
-|Lyft|✅|Fully virtual|
+|Lyft|✅|Fully virtual. Reduced intern pay to 50%, cut internship short to 8 weeks.|
 |Manulife Canada|✅|Remote|
 |Marathon Petroleum|✅|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
@@ -671,6 +678,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |NationWide|✅||
 |NBCUniversal|✅|Internship planned to begin on June 1, asked to remain flexible with more information after April 17|
 |Nelnet|✅|Determining remote, delayed start, or no change on April 16th|
+|Nestle USA|✅|Remote|
 |New York Times|✅|Remote.|
 |Nextdoor|✅|100% Virtual.|
 |Nike|✅|Remote.|
@@ -703,6 +711,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Pegasystems|✅|Remote.|
 |Peloton|✅|Virtual. Same duration. Providing housing stipend. Pay would remain same. And $200 being provided for a home desk setup.|
 |PepsiCo|✅|Moved to remote and reduced to 6 weeks. Providing full pay.|
+|PGT Trucking|✅||
 |Philips|✅|Going ahead with internships virtually. Students advised to not move for internships and laptops being shipped.|
 |PIMCO|✅||
 |Pinterest|✅|Remote|
@@ -803,7 +812,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |ViacomCBS|✅|Still evaluating plans for the summer 2020 internship program. We anticipate a decision very shortly so we can share next steps with you and your supervisors. |
 |Viasat|✅|Number of positions was significantly reduced. Many were cancelled.|
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks. May 26 to July 17.|
-|VMware|✅|Remote. Housing stipend won't be provided|
+|VMware|✅|Remote. Housing stipend provided for some|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
 |Voya Financial|✅||
 |Waymo|✅|Moved their internship program virtual.|
@@ -822,6 +831,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Xilinx|✅|Remote Internship|
 |Yahoo (Verizon Media)|✅|Remote possible. Hiring freeze at Verizon Media.|
 |Zebra Technology|✅||
+|Zymergen|✅|Remote|
 |Zillow|✅|Interviews being cancelled. Hiring Freeze.|
 |Zippity Cars|✅|Hiring|
 |Zocdoc|✅|Fully remote.|
