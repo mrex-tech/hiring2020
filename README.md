@@ -1,7 +1,7 @@
 # HIRING
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-If you're a **recruiter or a company representative**, we encourage you to verify your current internship status to avoid any false information floating around. Please email us from your official email - cr@hiring20.com . Also, if you are actively hiring, please drop us a mail and we can add/remove your positions here.
+**If you are actively hiring or know of companies actively hiring, please fill this [form](https://forms.gle/PM7rdswc4Cx716WWA) to add your job to the actively hiring list.**
 
 **You can also follow us on social media for regular job and status updates.**
 1. [Linkedin](https://www.linkedin.com/company/hiring20)
@@ -16,6 +16,11 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Ashoka|US|Internship|<ul><li>[Onboarding and Engagement Intern](https://jobs.jobvite.com/ashoka/job/ob4dcfwo)</li></ul>|
+|Ashoka|US|Internship|<ul><li>[Product Management Intern](https://jobs.jobvite.com/ashoka/job/oUNCbfwe)</li></ul>|
+|Ashoka|US|Internship|<ul><li>[Executive Office Intern](https://jobs.jobvite.com/ashoka/job/oLiD9fwz)</li></ul>|
+|Ashoka|US|Internship|<ul><li>[Strategic Entrepreneur Relationships - MBA Intern](https://jobs.jobvite.com/ashoka/job/oGfDcfwu)</li></ul>|
+|Ashoka|US|Internship|<ul><li>[Ashoka - US Team - Intern](https://jobs.jobvite.com/ashoka/job/oMyCcfwS)</li></ul>|
 |Vatic Labs|US|Internship|<ul><li>[Quantitative Research Intern](http://www.vaticlabs.ai/careers/1751323/?gh_jid=1751323)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Algorithmic Trader](http://www.vaticlabs.ai/careers/72038/?gh_jid=72038)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Quantitative Researcher](http://www.vaticlabs.ai/careers/53549/?gh_jid=53549)</li></ul>|
@@ -510,6 +515,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |ARM|✅|Remote|
 |AT&T|✅|Going remote.|
 |Atlassian|✅|Going fully remote|
+|Ashoka|✅|Remote for internships with teams operating from the Ashoka Global office in Arlington, Virginia.|
 |ASRC Federal|✅||
 |Audible|✅|On track to begin June 1|
 |Aurora|✅|Hiring freeze. Considering remote. Considering winter internship.|
