@@ -419,6 +419,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Verily|❌||
 |Vergin Hyperloop One|❌||
 |Verso Booksv|❌||
+|Vimeo|❌||
 |Virgin Orbit|❌|Cancelled the whole program|
 |VMLY&R|❌||
 |Volvo|❌|Offers got Rescinded|
