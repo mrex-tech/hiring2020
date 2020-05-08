@@ -465,6 +465,7 @@ This document will be updated regularly as new information becomes available. **
 |Verily|❌||
 |Vergin Hyperloop One|❌||
 |Verso Booksv|❌||
+|Vimeo|❌||
 |Virgin Orbit|❌|Cancelled the whole program|
 |VMLY&R|❌||
 |Volvo|❌|Offers got Rescinded|
@@ -755,7 +756,7 @@ This document will be updated regularly as new information becomes available. **
 |Pagerduty|✅|Fully remote.|
 |Palantir|✅||
 |Palo Alto Networks|✅ |Fully remote|
-|Pandora|✅||
+|Pandora|✅|Virtual Internship|
 |Parker Hannifinn|✅||
 |PayPal|✅|Remote work for all North America interns|
 |Pegasystems|✅|Remote.|
