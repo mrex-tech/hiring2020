@@ -465,6 +465,7 @@ This document will be updated regularly as new information becomes available. **
 |Verily|❌||
 |Vergin Hyperloop One|❌||
 |Verso Booksv|❌||
+|Vimeo|❌||
 |Virgin Orbit|❌|Cancelled the whole program|
 |VMLY&R|❌||
 |Volvo|❌|Offers got Rescinded|
