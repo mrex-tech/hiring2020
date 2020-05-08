@@ -262,9 +262,11 @@ This document will be updated regularly as new information becomes available. **
 |Excellus Blue Cross Blue Shield|❌||
 |ExtraHop|❌||
 |Fedex|❌|Not cancelled for SWE and Data Science in Fedex Services. All other roles in Fedex Freight, FedEx Express, and Fedex services cancelled.|
+|First American|❌||
 |Flipp|❌|Offers Rescinded|
 |Forbes|❌||
 |Formlabs|❌||
+|Foursquare|❌|Internship cancelled and hiring freeze|
 |Freeport-McMoRan|❌||
 |Funding Circle|❌||
 |FX|❌||
@@ -354,7 +356,6 @@ This document will be updated regularly as new information becomes available. **
 |National Geographic|❌|
 |National Institutes of Health|❌||
 |National Security Agency|❌|Cancelled all summer 2020 intternships|
-|Nationwide|❌||
 |Naval Research Enterprise Internship Program|❌|Cancelled all summer 2020 internships, but will still process SECRET clearances| 
 |NBC Olympic|❌||
 |Newell Brands|❌||
@@ -365,6 +366,7 @@ This document will be updated regularly as new information becomes available. **
 |Norfolk Southern|❌||
 |Nordstrom |❌|Cancelled all technology internships.|
 |Northwest Permanente|❌||
+|Novo Nordisk|❌||
 |NPR|❌||
 |Occidental Petroleum|❌||
 |Oliver Wyman|❌|Replaced with full-time offers. Few students didn't receive full-time offers.|
@@ -390,6 +392,7 @@ This document will be updated regularly as new information becomes available. **
 |Quora|❌|Cancelled.|
 |Ramboll|❌||
 |Randa Accessories|❌||
+|Raytheon|❌||
 |Redfin|❌||
 |Regeneron Pharmaceuticals|❌|Wet lab positions being cancelled. Dry lab likely to be remote.|
 |REI|❌|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
@@ -462,6 +465,7 @@ This document will be updated regularly as new information becomes available. **
 |USLI|❌||
 |USTA 2020 D&I|❌|| 
 |Valkyrie Investments|❌||
+|Vectorworks Inc.|❌||
 |Verily|❌||
 |Vergin Hyperloop One|❌||
 |Verso Booksv|❌||
@@ -489,7 +493,7 @@ This document will be updated regularly as new information becomes available. **
 ||||
 ||||
 |1Password|✅|Hiring Freeze|
-|3M|✅|Remote for now. Option to move to in-person if conditions change by June 1|
+|3M|✅|Remote for now. Option to move to in-person if conditions change by June 1. Some reports cancelled|
 |Accenture|✅|Strategy internships going remote.|
 |Activision/Blizzard|✅|100% remote. Blizzard internship duration reduced to 9 weeks.|
 |Adidas|✅|UX internship cancelled. Waiting for info on other positions.|
@@ -538,6 +542,7 @@ This document will be updated regularly as new information becomes available. **
 |Blackstone|✅||
 |Blade|✅|Currently no plans to change anything|
 |Blend|✅|Remote. [Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
+|BlockDriven|✅|Remote|
 |Bloomberg|✅|Remote.|
 |BMV Group|✅||
 |BNP Paribas|✅|Postponed start date to June 29. But will stick to original 10 week compensation.|
@@ -628,6 +633,7 @@ This document will be updated regularly as new information becomes available. **
 |FINRA|✅|Remote|
 |FireEye|✅|Remote|
 |FirstEnergy|✅|Remote|
+|Flatiron Health|✅|Remote|
 |Flexport|✅|Cancelling 60% of their summer internships and moving the rest to remote. Across Engineering, Data and Design.|
 |Flipkart|✅|Could be partially remote on fully remote based on future situation. The offer won't be rescinded|
 |Ford Motor Company|✅|Remote. Delayed June start date. Duration reduced to 6-8 weeks.|
@@ -726,7 +732,7 @@ This document will be updated regularly as new information becomes available. **
 |Mozilla|✅|Remote Internship|
 |NASA|✅|Internships will be held remotely. However some internships cannot be done remotely, in which case they will be rescinding some offers. Interns will be hearing the decision no later than May 15. Many offers however are being rescinded or left unfilled|
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
-|NationWide|✅||
+|NationWide|✅|Remote|
 |NBCUniversal|✅|Internship planned to begin on June 1, asked to remain flexible with more information after April 17|
 |Nelnet|✅|Determining remote, delayed start, or no change on April 16th|
 |Nestle USA|✅|Remote|
@@ -848,7 +854,7 @@ This document will be updated regularly as new information becomes available. **
 |Travelers|✅|Will be holding their full 10 week intern program starting in early June with all interns starting virtually.|
 |Truist Financial|✅|Internship start date moved to June 22nd for two weeks of virtual Training. Then in person starting July 6th.|
 |TuSimple|✅|Remote for now but onsite recommended once feasible|
-|Twilio|✅ |Preparing for remote onboarding and remote internship|
+|Twilio|✅|Preparing for remote onboarding and remote internship|
 |Twitch|✅|Remote Internship. Hiring freeze.|
 |Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
 |Two Sigma|✅|Preparing for a virtual summer internship.|
@@ -857,6 +863,7 @@ This document will be updated regularly as new information becomes available. **
 |Udemy|✅|Honoring all internships. Fully virtual. Shared by company representative.|
 |UnitedHealth Group|✅|Virtual. Starting on June 15. Duration will remain same.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
+|UPS|✅|Remote|
 |USAA|✅|Fully remote|
 |US Bank|✅|Remote|
 |Vanguard|✅|Virtual Internships|
