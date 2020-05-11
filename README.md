@@ -291,6 +291,7 @@ This document will be updated regularly as new information becomes available. **
 |HARMAN International|❌|Cancelled LEAP programs for new grads too.|
 |Hawaiian Airlines|❌|Internships and full time hirings cancelled.|
 |HCA Healthcare|❌||
+|Healthfirst|❌|After careful consideration, and in an effort to keep people safe and limit the spread of COVID 19, through social/physical distancing, we regrettably have the need to cancel our2020  Summer Internship Program.|
 |Helen of Troy|❌||
 |Hendrickson|❌||
 |Hess Corporation|❌||
