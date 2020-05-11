@@ -16,8 +16,6 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
-|Amazon|US|Internship|<ul><li>[Software Engineering – Fall/Winter 20](
-https://www.amazon.jobs/en/jobs/1134386/software-development-engineer-internship-fall-winter-2020-united-states)</li></ul>|
 |Qualcomm|US|Internship|<ul><li>[Software Engineering - Summer 21](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)</li></ul>|
 |CertiK|US|Internship|<ul><li>[Research Internship - Summer 20](https://jobs.lever.co/certik/d961cd21-44cf-4757-bc72-cc742fb7da2e/)</li></ul>|
 |Alibaba|US|Internship|<ul><li>[Summer Research Intern](https://talent.alibaba.com/campus-position/12400)</li></ul>|
