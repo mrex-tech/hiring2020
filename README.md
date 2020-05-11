@@ -16,6 +16,7 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Qualcomm|US|Internship|<ul><li>[Software Engineering Internship - Summer 2021](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)</li></ul>|
 |CertiK|US|Internship|<ul><li>[Summer Internship - Research](https://jobs.lever.co/certik/d961cd21-44cf-4757-bc72-cc742fb7da2e/)</li></ul>|
 |Alibaba|US|Internship|<ul><li>[Summer Research Intern](https://talent.alibaba.com/campus-position/12400)</li></ul>|
 |Coursera|IN|Internship|<ul><li>[Marketing Intern](https://jobs.lever.co/coursera/e903a438-b6e8-42ee-a3fa-f4c71a8c773a)</li></ul>|
