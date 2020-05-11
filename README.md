@@ -881,7 +881,7 @@ This document will be updated regularly as new information becomes available. **
 |WarnerMedia|✅|Fully virtual.|
 |Wattpad|✅|Remote|
 |Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
-|WePay|✅|Won't be cancelling|
+|WePay|✅|Fully remote. Dates from June 1 - August 14|
 |Western Digital|✅|Virtual Internship. Duration shortened to 10 weeks and start date isn't changed. Applies to India too.|
 |WGBH|✅|Remote|
 |Willis Towers Watson|✅|Internship shortened from 10 weeks to 8 weeks and will be virtual. Start date to remain same.|
