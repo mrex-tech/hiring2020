@@ -16,6 +16,9 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Pulse Secure|US|Internship|<ul><li>[Finance Intern](https://pulsesecure.applytojob.com/apply/jobs/details/MAiMAQTKoU)</li></ul>|
+|Pulse Secure|US|Internship|<ul><li>[IT Operations Intern](https://pulsesecure.applytojob.com/apply/jobs/details/c6hgwyiXv2)</li></ul>|
+|Pulse Secure|US|Internship|<ul><li>[Software Engineering Intern](https://pulsesecure.applytojob.com/apply/jobs/details/UTb01PD4jr)</li></ul>|
 |Balbix|US|Internship|<ul><li>[Software Developer Intern](https://www.balbix.com/2020-internship/)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Onboarding and Engagement Intern](https://jobs.jobvite.com/ashoka/job/ob4dcfwo)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Product Management Intern](https://jobs.jobvite.com/ashoka/job/oUNCbfwe)</li></ul>|
