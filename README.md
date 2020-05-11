@@ -16,6 +16,7 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Coursera|IN|Internship|<ul><li>[Marketing Intern](https://jobs.lever.co/coursera/e903a438-b6e8-42ee-a3fa-f4c71a8c773a)</li></ul>|
 |Pulse Secure|US|Internship|<ul><li>[Finance Intern](https://pulsesecure.applytojob.com/apply/jobs/details/MAiMAQTKoU)</li></ul>|
 |Pulse Secure|US|Internship|<ul><li>[IT Operations Intern](https://pulsesecure.applytojob.com/apply/jobs/details/c6hgwyiXv2)</li></ul>|
 |Pulse Secure|US|Internship|<ul><li>[Software Engineering Intern](https://pulsesecure.applytojob.com/apply/jobs/details/UTb01PD4jr)</li></ul>|
