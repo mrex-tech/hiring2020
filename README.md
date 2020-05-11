@@ -530,7 +530,7 @@ This document will be updated regularly as new information becomes available. **
 |AvidXchange|✅||
 |BEA Systems|✅|Hiring Freeze|
 |Bain & Company|✅|Virtual.|
-|Bank of America|✅||
+|Bank of America|✅|Virtual. Start date pushed to June 15th. Interns will be compensated for the full 10 weeks.|
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
 |Barclays|✅|Start date changed to July 6. Total compensation will remain same.|
