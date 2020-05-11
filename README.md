@@ -16,6 +16,7 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Balbix|US|Internship|<ul><li>[Software Developer Intern](https://www.balbix.com/2020-internship/)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Onboarding and Engagement Intern](https://jobs.jobvite.com/ashoka/job/ob4dcfwo)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Product Management Intern](https://jobs.jobvite.com/ashoka/job/oUNCbfwe)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Executive Office Intern](https://jobs.jobvite.com/ashoka/job/oLiD9fwz)</li></ul>|
