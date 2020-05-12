@@ -1,9 +1,9 @@
-# HIRING
+# Internships and Jobs for College Students
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-**If you are actively hiring or know of companies actively hiring**, please fill this [form](https://forms.gle/PM7rdswc4Cx716WWA) to add your job to the actively hiring list. You can also mail us at cr@hiring20.com
+**If you are actively hiring or know of companies actively hiring**, please fill this [form](https://forms.gle/PM7rdswc4Cx716WWA) to add a job to the actively hiring list. You can also mail us at cr@hiring20.com
 
-**You can also follow us on social media for regular job and status updates.**
+**Follow us on social media for regular job updates.**
 1. [Linkedin](https://www.linkedin.com/company/hiring20)
 2. [Twitter](https://twitter.com/hiring2020)
 3. [Facebook](https://www.facebook.com/pg/hiring20/) 
@@ -16,6 +16,15 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Amazon|US|Internship|<ul><li>[Software Engineering - Fall, Winter 2020](https://www.amazon.jobs/en/jobs/1134386/software-development-engineer-internship-fall-winter-2020-united-states)</li></ul>|
+|Qualcomm|US|Internship|<ul><li>[Software Engineering - Summer 21](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)</li></ul>|
+|CertiK|US|Internship|<ul><li>[Research Internship - Summer 20](https://jobs.lever.co/certik/d961cd21-44cf-4757-bc72-cc742fb7da2e/)</li></ul>|
+|Alibaba|US|Internship|<ul><li>[Summer Research Intern](https://talent.alibaba.com/campus-position/12400)</li></ul>|
+|Coursera|IN|Internship|<ul><li>[Marketing Intern](https://jobs.lever.co/coursera/e903a438-b6e8-42ee-a3fa-f4c71a8c773a)</li></ul>|
+|Pulse Secure|US|Internship|<ul><li>[Finance Intern](https://pulsesecure.applytojob.com/apply/jobs/details/MAiMAQTKoU)</li></ul>|
+|Pulse Secure|US|Internship|<ul><li>[IT Operations Intern](https://pulsesecure.applytojob.com/apply/jobs/details/c6hgwyiXv2)</li></ul>|
+|Pulse Secure|US|Internship|<ul><li>[Software Engineering Intern](https://pulsesecure.applytojob.com/apply/jobs/details/UTb01PD4jr)</li></ul>|
+|Balbix|US|Internship|<ul><li>[Software Developer Intern](https://www.balbix.com/2020-internship/)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Onboarding and Engagement Intern](https://jobs.jobvite.com/ashoka/job/ob4dcfwo)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Product Management Intern](https://jobs.jobvite.com/ashoka/job/oUNCbfwe)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Executive Office Intern](https://jobs.jobvite.com/ashoka/job/oLiD9fwz)</li></ul>|
@@ -291,6 +300,7 @@ This document will be updated regularly as new information becomes available. **
 |HARMAN International|❌|Cancelled LEAP programs for new grads too.|
 |Hawaiian Airlines|❌|Internships and full time hirings cancelled.|
 |HCA Healthcare|❌||
+|Healthfirst|❌|After careful consideration, and in an effort to keep people safe and limit the spread of COVID 19, through social/physical distancing, we regrettably have the need to cancel our2020  Summer Internship Program.|
 |Helen of Troy|❌||
 |Hendrickson|❌||
 |Hess Corporation|❌||
@@ -530,7 +540,7 @@ This document will be updated regularly as new information becomes available. **
 |AvidXchange|✅||
 |BEA Systems|✅|Hiring Freeze|
 |Bain & Company|✅|Virtual.|
-|Bank of America|✅||
+|Bank of America|✅|Virtual. Start date pushed to June 15th. Interns will be compensated for the full 10 weeks.|
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
 |Barclays|✅|Start date changed to July 6. Total compensation will remain same.|
@@ -649,7 +659,7 @@ This document will be updated regularly as new information becomes available. **
 |Glassdoor|✅|Hiring Freeze|
 |GoDaddy|✅|Remote|
 |Gojek|✅|Remote|
-|Goldman Sachs|✅|Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. Not applicable to India. Hong Kong - Delayed by a month.|
+|Goldman Sachs|✅|Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. India - Reduced to 6 weeks with full stipend. Hong Kong - Delayed by a month.|
 |GoldPoint Partners|✅|Moving to remote. Interns will be compensated fully.|
 |Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Housing stipend still provided. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward. Interns for rest of 2020 (including Fall 2020) won't be considered|
 |Green Hills Software|✅|Hiring Freeze|
@@ -869,7 +879,7 @@ This document will be updated regularly as new information becomes available. **
 |Vanguard|✅|Virtual Internships|
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
-|Verizon|✅||
+|Verizon|✅|Verizon Wireless will be moving virtual.|
 |ViacomCBS|✅|Still evaluating plans for the summer 2020 internship program. We anticipate a decision very shortly so we can share next steps with you and your supervisors. |
 |Viasat|✅|Number of positions was significantly reduced. Many were cancelled.|
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks. May 26 to July 17.|
@@ -881,7 +891,7 @@ This document will be updated regularly as new information becomes available. **
 |WarnerMedia|✅|Fully virtual.|
 |Wattpad|✅|Remote|
 |Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
-|WePay|✅|Won't be cancelling|
+|WePay|✅|Fully remote. Dates from June 1 - August 14|
 |Western Digital|✅|Virtual Internship. Duration shortened to 10 weeks and start date isn't changed. Applies to India too.|
 |WGBH|✅|Remote|
 |Willis Towers Watson|✅|Internship shortened from 10 weeks to 8 weeks and will be virtual. Start date to remain same.|
