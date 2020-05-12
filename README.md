@@ -16,6 +16,18 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|SAP|US|Internship|<ul><li>[Multiple](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=US)</li></ul>|
+|HP|US|Internship|<ul><li>[Data Sciences and Machine Learning Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Data-Sciences-and-Machine-Learning-Intern_3061295-1)</li></ul>|
+|HP|US|Internship|<ul><li>[Cloud Software Engineering Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Cloud-Software-Engineering-Intern_3061125-1)</li></ul>|
+|HP|US|Internship|<ul><li>[Data Scientist Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Boise-Idaho-United-States-of-America/Data-Scientist-Intern_3060992-1)</li></ul>|
+|Klara|US|Internship|<ul><li>[Product Management MBA Internship](https://boards.greenhouse.io/klara/jobs/4731919002?t=dffe74522us)</li></ul>|
+|Klara|US|Internship|<ul><li>[Go-to-Market MBA Internship](https://boards.greenhouse.io/klara/jobs/4731917002?t=dffe74522us)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[IT / Office Intern](https://www.fivestars.com/careers/?gh_jid=2185594)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[Product Analyst Intern](https://www.fivestars.com/careers/?gh_jid=2181831)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[Product Design Intern](https://www.fivestars.com/careers/?gh_jid=2184414)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[Product Management Intern](https://www.fivestars.com/careers/?gh_jid=2184131)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[QA Automation Intern](https://www.fivestars.com/careers/?gh_jid=2181810)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[User Research Intern](https://www.fivestars.com/careers/?gh_jid=2183788)</li></ul>|
 |Amazon|US|Internship|<ul><li>[Software Engineering - Fall, Winter 2020](https://www.amazon.jobs/en/jobs/1134386/software-development-engineer-internship-fall-winter-2020-united-states)</li></ul>|
 |Qualcomm|US|Internship|<ul><li>[Software Engineering - Summer 21](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)</li></ul>|
 |CertiK|US|Internship|<ul><li>[Research Internship - Summer 20](https://jobs.lever.co/certik/d961cd21-44cf-4757-bc72-cc742fb7da2e/)</li></ul>|
