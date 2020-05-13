@@ -22,7 +22,7 @@ This document will be updated regularly as new information becomes available. **
 |HP|US|Internship|<ul><li>[Data Scientist Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Boise-Idaho-United-States-of-America/Data-Scientist-Intern_3060992-1)</li></ul>|
 |Klara|US|Internship|<ul><li>[Product Management MBA Internship](https://boards.greenhouse.io/klara/jobs/4731919002?t=dffe74522us)</li></ul>|
 |Klara|US|Internship|<ul><li>[Go-to-Market MBA Internship](https://boards.greenhouse.io/klara/jobs/4731917002?t=dffe74522us)</li></ul>|
-|Fivestars|US|Internship|<ul><li>[IT / Office Intern](https://www.fivestars.com/careers/?gh_jid=2185594)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[IT Office Intern](https://www.fivestars.com/careers/?gh_jid=2185594)</li></ul>|
 |Fivestars|US|Internship|<ul><li>[Product Analyst Intern](https://www.fivestars.com/careers/?gh_jid=2181831)</li></ul>|
 |Fivestars|US|Internship|<ul><li>[Product Design Intern](https://www.fivestars.com/careers/?gh_jid=2184414)</li></ul>|
 |Fivestars|US|Internship|<ul><li>[Product Management Intern](https://www.fivestars.com/careers/?gh_jid=2184131)</li></ul>|
