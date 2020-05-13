@@ -671,7 +671,7 @@ This document will be updated regularly as new information becomes available. **
 |Glassdoor|✅|Hiring Freeze|
 |GoDaddy|✅|Remote|
 |Gojek|✅|Remote|
-|Goldman Sachs|✅|Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. India - Reduced to 6 weeks with full stipend. Hong Kong - Delayed by a month.|
+|Goldman Sachs|✅|Fully remote. Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. India - Reduced to 6 weeks with full stipend. Hong Kong - Delayed by a month.|
 |GoldPoint Partners|✅|Moving to remote. Interns will be compensated fully.|
 |Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Housing stipend still provided. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward. Interns for rest of 2020 (including Fall 2020) won't be considered|
 |Green Hills Software|✅|Hiring Freeze|
