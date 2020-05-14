@@ -663,7 +663,7 @@ This document will be updated regularly as new information becomes available. **
 |FTI Consulting|✅||
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled, manufacturing internships cancelled at Oceanside location).|
-|General Atomics|✅|Considering remote.|
+|General Atomics|✅|100% happening. Some internships will be remote+partial onsite, others might be fully remote. Start date and internship duration will stay the same.|
 |General Electric|✅|Confirmed by company representative. No cancellations. Info by May 1.|
 |General Motors|✅|Delayed to beginning of June. Needs confirmation.|
 |Giphy|✅|Hiring Freeze|
@@ -850,7 +850,7 @@ This document will be updated regularly as new information becomes available. **
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
-|SPS Commerce|✅|Remote.|
+|SPS Commerce|✅|Remote. Postponed internship start date to July 6th. Reduced from 40 hr/wk to 32hr/wk.|
 |Square|✅|Remote|
 |Standard Chartered Bank GBS|✅||
 |Starbucks|✅|Remote.|
