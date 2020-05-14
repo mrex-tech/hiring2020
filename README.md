@@ -663,7 +663,7 @@ This document will be updated regularly as new information becomes available. **
 |FTI Consulting|✅||
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled, manufacturing internships cancelled at Oceanside location).|
-|General Atomics|✅|Considering remote.|
+|General Atomics|✅|100% happening. Some internships will be remote+partial onsite, others might be fully remote. Start date and internship duration will stay the same.|
 |General Electric|✅|Confirmed by company representative. No cancellations. Info by May 1.|
 |General Motors|✅|Delayed to beginning of June. Needs confirmation.|
 |Giphy|✅|Hiring Freeze|
