@@ -850,7 +850,7 @@ This document will be updated regularly as new information becomes available. **
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
-|SPS Commerce|✅|Remote.|
+|SPS Commerce|✅|Remote. Postponed internship start date to July 6th. Reduced from 40 hr/wk to 32hr/wk.|
 |Square|✅|Remote|
 |Standard Chartered Bank GBS|✅||
 |Starbucks|✅|Remote.|
