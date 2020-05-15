@@ -16,7 +16,11 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
-|L3HARRIS|US|Full-time|<ul><li>[Software Engineer - New Grad](https://harrisrccol.peoplefluent.com/res_viewjob.html?erjob=24686)</li></ul>|
+https://boards.greenhouse.io/argo/jobs/1859659
+|Argo AI|US|Internship|<ul><li>[2020 Summer Internship - Camera R&D Intern Remote](https://boards.greenhouse.io/argo/jobs/1859659)</li></ul>|
+|Robinhood|US|Full-time|<ul><li>[Customer Experience Associate - New Grad](https://boards.greenhouse.io/robinhood/jobs/2184251)</li></ul>|
+|VMware|US|Full-time|<ul><li>[Software Developer - New Grad](https://careers.vmware.com/main/jobs/R1909908)</li></ul>|
+|L3Harris|US|Full-time|<ul><li>[Software Engineer - New Grad](https://harrisrccol.peoplefluent.com/res_viewjob.html?erjob=24686)</li></ul>|
 |Blend|US|Full-time|<ul><li>[Software Engineer - New Grad](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e)</li></ul>|
 |Impinj|US|Internship|<ul><li>[Marketing Intern](https://www.impinj.com/careers/job-openings?p=job%2Fox4Jcfwg)</li></ul>|
 |Impinj|US|Internship|<ul><li>[Platform Systems Engineer Intern](https://jobs.jobvite.com/impinj/job/oemBcfw7)</li></ul>|
