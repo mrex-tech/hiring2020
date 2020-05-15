@@ -17,7 +17,7 @@ This document will be updated regularly as new information becomes available. **
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
 https://boards.greenhouse.io/argo/jobs/1859659
-|Argo AI|US|Internship|<ul><li>[2020 Summer Internship - Camera R&D Intern Remote](https://boards.greenhouse.io/argo/jobs/1859659)</li></ul>|
+|Argo AI|US|Internship|<ul><li>[2020 Summer Internship - Camera Intern Remote](https://boards.greenhouse.io/argo/jobs/1859659)</li></ul>|
 |Robinhood|US|Full-time|<ul><li>[Customer Experience Associate - New Grad](https://boards.greenhouse.io/robinhood/jobs/2184251)</li></ul>|
 |VMware|US|Full-time|<ul><li>[Software Developer - New Grad](https://careers.vmware.com/main/jobs/R1909908)</li></ul>|
 |L3Harris|US|Full-time|<ul><li>[Software Engineer - New Grad](https://harrisrccol.peoplefluent.com/res_viewjob.html?erjob=24686)</li></ul>|
