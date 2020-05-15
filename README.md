@@ -16,6 +16,11 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Impinj|US|Internship|<ul><li>[Marketing Intern](https://www.impinj.com/careers/job-openings?p=job%2Fox4Jcfwg)</li></ul>|
+|Impinj|US|Internship|<ul><li>[Platform Systems Engineer Intern](https://jobs.jobvite.com/impinj/job/oemBcfw7)</li></ul>|
+|Impinj|US|Internship|<ul><li>[Systems Engineering Intern](https://jobs.jobvite.com/impinj/job/ovnBcfwp)</li></ul>|
+|B. Braun Medical|US|Internship|<ul><li>[Multiple](https://bbrauncareers-bbraun.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchPositionType=8710)</li></ul>|
+|Snowflake|US|Internship|<ul><li>[Cloud Data Engineer Intern](https://boards.greenhouse.io/snowflakecomputing/jobs/4736173002?gh_src=ed5543a62)</li></ul>|
 |SAP|US|Internship|<ul><li>[Multiple](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=US)</li></ul>|
 |HP|US|Internship|<ul><li>[Data Sciences and Machine Learning Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Data-Sciences-and-Machine-Learning-Intern_3061295-1)</li></ul>|
 |HP|US|Internship|<ul><li>[Cloud Software Engineering Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Cloud-Software-Engineering-Intern_3061125-1)</li></ul>|
