@@ -16,6 +16,7 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|L3HARRIS|US|Full-time|<ul><li>[Software Engineer - New Grad](https://harrisrccol.peoplefluent.com/res_viewjob.html?erjob=24686)</li></ul>|
 |Blend|US|Full-time|<ul><li>[Software Engineer - New Grad](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e)</li></ul>|
 |Impinj|US|Internship|<ul><li>[Marketing Intern](https://www.impinj.com/careers/job-openings?p=job%2Fox4Jcfwg)</li></ul>|
 |Impinj|US|Internship|<ul><li>[Platform Systems Engineer Intern](https://jobs.jobvite.com/impinj/job/oemBcfw7)</li></ul>|
