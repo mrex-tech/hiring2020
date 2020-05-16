@@ -867,6 +867,7 @@ This document will be updated regularly as new information becomes available. **
 |Tik Tok|✅||
 |Tinder|✅|Going remote.|
 |Toyota Research Institute|✅|Most likely go remote and possibility to reassess the situation later|
+|Toyota North America|✅|Remote.|
 |TransferWise|✅|Offers not sent, but people have been notified that they have passed the final rounds, although no answer about internship programme will be released until situation clears up.|
 |Travelers|✅|Will be holding their full 10 week intern program starting in early June with all interns starting virtually.|
 |Truist Financial|✅|Internship start date moved to June 22nd for two weeks of virtual Training. Then in person starting July 6th.|
