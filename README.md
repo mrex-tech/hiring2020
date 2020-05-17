@@ -1,9 +1,9 @@
-# HIRING
+# Internships and Jobs for College Students
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-**If you are actively hiring or know of companies actively hiring**, please fill this [form](https://forms.gle/PM7rdswc4Cx716WWA) to add your job to the actively hiring list. You can also mail us at cr@hiring20.com
+**If you are actively hiring or know of companies actively hiring**, please fill this [form](https://forms.gle/PM7rdswc4Cx716WWA) to add a job to the actively hiring list. You can also mail us at cr@hiring20.com
 
-**You can also follow us on social media for regular job and status updates.**
+**Follow us on social media for regular job updates.**
 1. [Linkedin](https://www.linkedin.com/company/hiring20)
 2. [Twitter](https://twitter.com/hiring2020)
 3. [Facebook](https://www.facebook.com/pg/hiring20/) 
@@ -16,6 +16,37 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Argo AI|US|Internship|<ul><li>[2020 Summer Internship - Camera R&D Intern Remote](https://boards.greenhouse.io/argo/jobs/1859659)</li></ul>|
+|Robinhood|US|Full-time|<ul><li>[Customer Experience Associate - New Grad](https://boards.greenhouse.io/robinhood/jobs/2184251)</li></ul>|
+|VMware|US|Full-time|<ul><li>[Software Developer - New Grad](https://careers.vmware.com/main/jobs/R1909908)</li></ul>|
+|L3Harris|US|Full-time|<ul><li>[Software Engineer - New Grad](https://harrisrccol.peoplefluent.com/res_viewjob.html?erjob=24686)</li></ul>|
+|Blend|US|Full-time|<ul><li>[Software Engineer - New Grad](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e)</li></ul>|
+|Impinj|US|Internship|<ul><li>[Marketing Intern](https://www.impinj.com/careers/job-openings?p=job%2Fox4Jcfwg)</li></ul>|
+|Impinj|US|Internship|<ul><li>[Platform Systems Engineer Intern](https://jobs.jobvite.com/impinj/job/oemBcfw7)</li></ul>|
+|Impinj|US|Internship|<ul><li>[Systems Engineering Intern](https://jobs.jobvite.com/impinj/job/ovnBcfwp)</li></ul>|
+|B. Braun Medical|US|Internship|<ul><li>[Multiple](https://bbrauncareers-bbraun.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchPositionType=8710)</li></ul>|
+|Snowflake|US|Internship|<ul><li>[Cloud Data Engineer Intern](https://boards.greenhouse.io/snowflakecomputing/jobs/4736173002?gh_src=ed5543a62)</li></ul>|
+|SAP|US|Internship|<ul><li>[Multiple](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=US)</li></ul>|
+|HP|US|Internship|<ul><li>[Data Sciences and Machine Learning Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Data-Sciences-and-Machine-Learning-Intern_3061295-1)</li></ul>|
+|HP|US|Internship|<ul><li>[Cloud Software Engineering Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Cloud-Software-Engineering-Intern_3061125-1)</li></ul>|
+|HP|US|Internship|<ul><li>[Data Scientist Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Boise-Idaho-United-States-of-America/Data-Scientist-Intern_3060992-1)</li></ul>|
+|Klara|US|Internship|<ul><li>[Product Management MBA Internship](https://boards.greenhouse.io/klara/jobs/4731919002?t=dffe74522us)</li></ul>|
+|Klara|US|Internship|<ul><li>[Go-to-Market MBA Internship](https://boards.greenhouse.io/klara/jobs/4731917002?t=dffe74522us)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[IT Office Intern](https://www.fivestars.com/careers/?gh_jid=2185594)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[Product Analyst Intern](https://www.fivestars.com/careers/?gh_jid=2181831)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[Product Design Intern](https://www.fivestars.com/careers/?gh_jid=2184414)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[Product Management Intern](https://www.fivestars.com/careers/?gh_jid=2184131)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[QA Automation Intern](https://www.fivestars.com/careers/?gh_jid=2181810)</li></ul>|
+|Fivestars|US|Internship|<ul><li>[User Research Intern](https://www.fivestars.com/careers/?gh_jid=2183788)</li></ul>|
+|Amazon|US|Internship|<ul><li>[Software Engineering - Fall, Winter 2020](https://www.amazon.jobs/en/jobs/1134386/software-development-engineer-internship-fall-winter-2020-united-states)</li></ul>|
+|Qualcomm|US|Internship|<ul><li>[Software Engineering - Summer 21](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)</li></ul>|
+|CertiK|US|Internship|<ul><li>[Research Internship - Summer 20](https://jobs.lever.co/certik/d961cd21-44cf-4757-bc72-cc742fb7da2e/)</li></ul>|
+|Alibaba|US|Internship|<ul><li>[Summer Research Intern](https://talent.alibaba.com/campus-position/12400)</li></ul>|
+|Coursera|IN|Internship|<ul><li>[Marketing Intern](https://jobs.lever.co/coursera/e903a438-b6e8-42ee-a3fa-f4c71a8c773a)</li></ul>|
+|Pulse Secure|US|Internship|<ul><li>[Finance Intern](https://pulsesecure.applytojob.com/apply/jobs/details/MAiMAQTKoU)</li></ul>|
+|Pulse Secure|US|Internship|<ul><li>[IT Operations Intern](https://pulsesecure.applytojob.com/apply/jobs/details/c6hgwyiXv2)</li></ul>|
+|Pulse Secure|US|Internship|<ul><li>[Software Engineering Intern](https://pulsesecure.applytojob.com/apply/jobs/details/UTb01PD4jr)</li></ul>|
+|Balbix|US|Internship|<ul><li>[Software Developer Intern](https://www.balbix.com/2020-internship/)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Onboarding and Engagement Intern](https://jobs.jobvite.com/ashoka/job/ob4dcfwo)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Product Management Intern](https://jobs.jobvite.com/ashoka/job/oUNCbfwe)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Executive Office Intern](https://jobs.jobvite.com/ashoka/job/oLiD9fwz)</li></ul>|
@@ -25,7 +56,6 @@ This document will be updated regularly as new information becomes available. **
 |Vatic Labs|US|Full-time|<ul><li>[Algorithmic Trader](http://www.vaticlabs.ai/careers/72038/?gh_jid=72038)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Quantitative Researcher](http://www.vaticlabs.ai/careers/53549/?gh_jid=53549)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Software Engineer](http://www.vaticlabs.ai/careers/53508/?gh_jid=53508)</li></ul>|
-|POWER KICK|KR|Internship|<ul><li>[Software Engineering Intern](https://forms.gle/b7iEFHAs6oA64Pfm8)</li></ul>|
 |ROI·DNA|US|Internship|<ul><li>[Visual Design Intern](https://boards.greenhouse.io/roidna/jobs/4727817002?gh_src=215a75432us)</li></ul>|
 |Dematic|US|Internship|<ul><li>[Product Management Intern](https://jobus-dematic.icims.com/jobs/12184/product-management-intern/job)</li></ul>|
 |Micro Focus|US|Internship|<ul><li>[Corporate Marketing Intern](https://jobs.microfocus.com/global/en/job/7015095/Corporate-Marketing-Intern)</li></ul>|
@@ -121,7 +151,6 @@ This document will be updated regularly as new information becomes available. **
 |RefleXion Medical|US|Internship|<ul><li>[Firmware Engineering Intern](https://boards.greenhouse.io/reflexionmedical/jobs/2156083)</li></ul>|
 |The Round|US|Internship|<ul><li>[Marketing Intern](https://www.notion.so/Marketing-Intern-The-Round-72c0eb64d4584abe80967bdc5e0dbcfc)</li></ul>|
 |The Round|US|Internship|<ul><li>[Intern - Full-stack Engineer](https://www.notion.so/Intern-Full-stack-Engineer-The-Round-746146bc54b94ba382ca06f7e460555e)</li></ul>|
-|Zipline|US|Internship|<ul><li>[Test Operations Internship](https://jobs.lever.co/flyzipline/530832fd-3fbc-40f1-ba4f-8d0cd7495493)</li></ul>|
 |Zipline|US|Co-op/Internship|<ul><li>[Electrical Engineer](https://jobs.lever.co/flyzipline/8d73b761-13bb-45a7-8c69-e793dfc28ddc)</li></ul>|
 |Databricks|US|Full-time|<ul><li>[Software Engineer - New Grad](https://databricks.com/company/careers/open-positions/job?gh_jid=4364076002)</li></ul>|
 |Amazon|US|Internship|<ul><li>[Amazon Science Internships](https://amazonscienceinternships2020.splashthat.com)</li></ul>|
@@ -132,7 +161,6 @@ This document will be updated regularly as new information becomes available. **
 |Citadel|US|Internship & Full-time|<ul><li>[Multiple](https://www.citadel.com/careers/open-positions/positions-for-students/)</li></ul>|
 |Cisco Meraki|US|Full-time|<ul><li>[Multiple](https://meraki.cisco.com/jobs)</li></ul>|
 |Equinix|US|Internship|<ul><li>[Multiple](https://equinix.wd1.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be)</li></ul>|
-|EverQuote|US|Internship|<ul><li>[Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
 |Five Rings Capital|US|Internship & Full-time|<ul><li>[Multiple](https://fiverings.com/apply/)</li></ul>|
 |Frame.io|US|Full-time|<ul><li>[Multiple](https://careers.frame.io/#open-roles)</li></ul>|
 |Lockheed Martin|US|Internship|<ul><li>[Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
@@ -141,23 +169,10 @@ This document will be updated regularly as new information becomes available. **
 |PagerDuty|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
 |Point72|US|Internship & Full-time|<ul><li>[Multiple](https://careers.point72.com/CSCareerSearch)</li></ul>|
 |Ribbon Health|US|Internship|<ul><li>[Software Engineer - Internship](https://jobs.lever.co/ribbonhealth/79823d89-798e-48c1-a4df-711a8f28a1d8/apply)</li></ul>|
-|Roblox|US|Internship|<ul><li>[Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
-|Roblox|US|Internship|<ul><li>[Design Intern](https://corp.roblox.com/careers/listing/?gh_jid=1860571)</li></ul>|
-|Shopee|SG|Full-time|<ul><li>[Engineering role - esp. Backend and Server](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern - iOS](https://www.shopify.com/careers/mobile-developer-intern-ios-fall-2020-b0eb1f)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Backend Developer Intern](https://www.shopify.com/careers/backend-developer-intern-also-includes-roles-in-security-fall-2020-391b72)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[UX Developer Intern](https://www.shopify.com/careers/ux-developer-intern-fall-2020-7c2563)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Production Engineering/Site Reliability Intern](https://www.shopify.com/careers/production-engineering-site-reliability-intern-fall-2020-1169c2)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Data Science Intern](https://www.shopify.com/careers/data-science-intern-fall-2020-6ff515)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern - Android](https://www.shopify.com/careers/mobile-developer-intern-android-fall-2020-fbf7d9)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Web Developer Intern](https://www.shopify.com/careers/web-developer-intern-fall-2020-e27054)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Digital Product Design Intern](https://www.shopify.com/careers/digital-product-design-intern-fall-2020-868e44)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Digital Product Management MBA Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2034978)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Production Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2115044)</li></ul>|
 |Zippity Cars|US|Full-time|<ul><li>[Full-Stack Software Engineer](https://zippitycars.com/jobs/sweng)</li></ul>|
 |Zoom|US|Internship|<ul><li>[SDK Engineer Intern](https://jobs.lever.co/zoom/8a76f470-da4d-4e90-a341-8efd7de62878)</li></ul>|
-|Zscaler|US|Internship|<ul><li>[Product Management Security Intern](https://jobs.jobvite.com/zscaler/job/oXYucfwl)</li></ul>|
-|Zynga|US|Internship|<ul><li>[Software Engineering Intern](https://www.zynga.com/job-listing/software-engineering-intern-summer-2020/)</li></ul>|
 |Zynga|US|Full-time|<ul><li>[New Grad Full-Time Rotational Software Engineer](https://www.zynga.com/job-listing/rotational-software-engineer-2/)</li></ul>|
 |Zynga|US|Full-time|<ul><li>[New Grad Full-Time Rotational Experience Designer](https://www.zynga.com/job-listing/rotational-experienced-designer/)</li></ul>|
 |Zynga|CA|Full-time|<ul><li>[New Grad Full-Time Rotational Software Engineer](https://www.zynga.com/job-listing/rotational-software-engineer/)</li></ul>|
@@ -531,7 +546,7 @@ This document will be updated regularly as new information becomes available. **
 |AvidXchange|✅||
 |BEA Systems|✅|Hiring Freeze|
 |Bain & Company|✅|Virtual.|
-|Bank of America|✅||
+|Bank of America|✅|Virtual. Start date pushed to June 15th. Interns will be compensated for the full 10 weeks.|
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
 |Barclays|✅|Start date changed to July 6. Total compensation will remain same.|
@@ -642,7 +657,7 @@ This document will be updated regularly as new information becomes available. **
 |FTI Consulting|✅||
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled, manufacturing internships cancelled at Oceanside location).|
-|General Atomics|✅|Considering remote.|
+|General Atomics|✅|100% happening. Some internships will be remote+partial onsite, others might be fully remote. Start date and internship duration will stay the same.|
 |General Electric|✅|Confirmed by company representative. No cancellations. Info by May 1.|
 |General Motors|✅|Delayed to beginning of June. Needs confirmation.|
 |Giphy|✅|Hiring Freeze|
@@ -650,7 +665,7 @@ This document will be updated regularly as new information becomes available. **
 |Glassdoor|✅|Hiring Freeze|
 |GoDaddy|✅|Remote|
 |Gojek|✅|Remote|
-|Goldman Sachs|✅|Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. Not applicable to India. Hong Kong - Delayed by a month.|
+|Goldman Sachs|✅|Fully remote. Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. India - Reduced to 6 weeks with full stipend. Hong Kong - Delayed by a month.|
 |GoldPoint Partners|✅|Moving to remote. Interns will be compensated fully.|
 |Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Housing stipend still provided. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward. Interns for rest of 2020 (including Fall 2020) won't be considered|
 |Green Hills Software|✅|Hiring Freeze|
@@ -829,7 +844,7 @@ This document will be updated regularly as new information becomes available. **
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
-|SPS Commerce|✅|Remote.|
+|SPS Commerce|✅|Remote. Postponed internship start date to July 6th. Reduced from 40 hr/wk to 32hr/wk.|
 |Square|✅|Remote|
 |Standard Chartered Bank GBS|✅||
 |Starbucks|✅|Remote.|
@@ -851,6 +866,7 @@ This document will be updated regularly as new information becomes available. **
 |Tik Tok|✅||
 |Tinder|✅|Going remote.|
 |Toyota Research Institute|✅|Most likely go remote and possibility to reassess the situation later|
+|Toyota North America|✅|Remote.|
 |TransferWise|✅|Offers not sent, but people have been notified that they have passed the final rounds, although no answer about internship programme will be released until situation clears up.|
 |Travelers|✅|Will be holding their full 10 week intern program starting in early June with all interns starting virtually.|
 |Truist Financial|✅|Internship start date moved to June 22nd for two weeks of virtual Training. Then in person starting July 6th.|
@@ -870,7 +886,7 @@ This document will be updated regularly as new information becomes available. **
 |Vanguard|✅|Virtual Internships|
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
-|Verizon|✅||
+|Verizon|✅|Verizon Wireless will be moving virtual.|
 |ViacomCBS|✅|Still evaluating plans for the summer 2020 internship program. We anticipate a decision very shortly so we can share next steps with you and your supervisors. |
 |Viasat|✅|Number of positions was significantly reduced. Many were cancelled.|
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks. May 26 to July 17.|
@@ -882,7 +898,7 @@ This document will be updated regularly as new information becomes available. **
 |WarnerMedia|✅|Fully virtual.|
 |Wattpad|✅|Remote|
 |Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
-|WePay|✅|Won't be cancelling|
+|WePay|✅|Fully remote. Dates from June 1 - August 14|
 |Western Digital|✅|Virtual Internship. Duration shortened to 10 weeks and start date isn't changed. Applies to India too.|
 |WGBH|✅|Remote|
 |Willis Towers Watson|✅|Internship shortened from 10 weeks to 8 weeks and will be virtual. Start date to remain same.|
