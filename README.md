@@ -25,7 +25,6 @@ This document will be updated regularly as new information becomes available. **
 |Impinj|US|Internship|<ul><li>[Platform Systems Engineer Intern](https://jobs.jobvite.com/impinj/job/oemBcfw7)</li></ul>|
 |Impinj|US|Internship|<ul><li>[Systems Engineering Intern](https://jobs.jobvite.com/impinj/job/ovnBcfwp)</li></ul>|
 |B. Braun Medical|US|Internship|<ul><li>[Multiple](https://bbrauncareers-bbraun.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchPositionType=8710)</li></ul>|
-|Snowflake|US|Internship|<ul><li>[Cloud Data Engineer Intern](https://boards.greenhouse.io/snowflakecomputing/jobs/4736173002?gh_src=ed5543a62)</li></ul>|
 |SAP|US|Internship|<ul><li>[Multiple](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=US)</li></ul>|
 |HP|US|Internship|<ul><li>[Data Sciences and Machine Learning Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Data-Sciences-and-Machine-Learning-Intern_3061295-1)</li></ul>|
 |HP|US|Internship|<ul><li>[Cloud Software Engineering Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Cloud-Software-Engineering-Intern_3061125-1)</li></ul>|
@@ -44,7 +43,6 @@ This document will be updated regularly as new information becomes available. **
 |Alibaba|US|Internship|<ul><li>[Summer Research Intern](https://talent.alibaba.com/campus-position/12400)</li></ul>|
 |Coursera|IN|Internship|<ul><li>[Marketing Intern](https://jobs.lever.co/coursera/e903a438-b6e8-42ee-a3fa-f4c71a8c773a)</li></ul>|
 |Pulse Secure|US|Internship|<ul><li>[Finance Intern](https://pulsesecure.applytojob.com/apply/jobs/details/MAiMAQTKoU)</li></ul>|
-|Pulse Secure|US|Internship|<ul><li>[IT Operations Intern](https://pulsesecure.applytojob.com/apply/jobs/details/c6hgwyiXv2)</li></ul>|
 |Pulse Secure|US|Internship|<ul><li>[Software Engineering Intern](https://pulsesecure.applytojob.com/apply/jobs/details/UTb01PD4jr)</li></ul>|
 |Balbix|US|Internship|<ul><li>[Software Developer Intern](https://www.balbix.com/2020-internship/)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Onboarding and Engagement Intern](https://jobs.jobvite.com/ashoka/job/ob4dcfwo)</li></ul>|
@@ -72,7 +70,6 @@ This document will be updated regularly as new information becomes available. **
 |Shuffle|US|Internship|<ul><li>[Software Engineering Intern](https://www.notion.so/Software-Engineer-Intern-Shuffle-a69575e72c4344cda41abc214df71112)</li></ul>|
 |Cognizant|US|Full-time|<ul><li>[Multiple](https://careers.cognizant.com/studentandinterns/na/en/campus-jobs)</li></ul>|
 |Snowflake|US|Internship|<ul><li>[IT Compliance Intern](https://boards.greenhouse.io/snowflakecomputing/jobs/4721973002?t=ed5543a62)</li></ul>|
-|Earnest|US|Internship|<ul><li>[Data & Analytics Internship](https://www.earnest.com/careers?gh_jid=2145353)</li></ul>|
 |Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern - MBA, San Francisco, CA](https://www.coinbase.com/careers/positions/2173648)</li></ul>|
 |Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern - MBA, Portland, OR](https://www.coinbase.com/careers/positions/2173652)</li></ul>|
 |Coinbase|US|Internship|<ul><li>[Summer 2020 Compliance Tools and Strategic Initiatives Intern](https://www.coinbase.com/careers/positions/2178790)</li></ul>|
@@ -109,7 +106,6 @@ This document will be updated regularly as new information becomes available. **
 |Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Marketing Intern](http://jobs.jobvite.com/beyondlimitsai/job/otflcfwZ)</li></ul>|
 |Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Data Science](http://jobs.jobvite.com/beyondlimitsai/job/oSyNafw7)</li></ul>|
 |Trusaic|US|Internship|<ul><li>[Data Operations Intern](https://boards.greenhouse.io/trusaic/jobs/4010445003)</li></ul>|
-|Trusaic|US|Internship|<ul><li>[Technical Product Associate Intern](https://boards.greenhouse.io/trusaic/jobs/4044284003)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Software Engineering](https://www.paclintra.com/careers/software-engineering-intern/)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Medical Affairs and Marketing](http://www.paclintra.com/careers/medical-affairs-marketing-intern/)</li></ul>|
 |Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Business Analyst - Internship](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Jeffersonville-IN/Promising-Entrepreneur---Business-Analyst---Internship_R9965)</li></ul>|
