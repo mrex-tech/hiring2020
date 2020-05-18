@@ -71,7 +71,6 @@ This document will be updated regularly as new information becomes available. **
 |Shuffle|US|Internship|<ul><li>[Software Engineering Intern](https://www.notion.so/Software-Engineer-Intern-Shuffle-a69575e72c4344cda41abc214df71112)</li></ul>|
 |Cognizant|US|Full-time|<ul><li>[Multiple](https://careers.cognizant.com/studentandinterns/na/en/campus-jobs)</li></ul>|
 |Snowflake|US|Internship|<ul><li>[IT Compliance Intern](https://boards.greenhouse.io/snowflakecomputing/jobs/4721973002?t=ed5543a62)</li></ul>|
-|Earnest|US|Internship|<ul><li>[Data & Analytics Internship](https://www.earnest.com/careers?gh_jid=2145353)</li></ul>|
 |Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern - MBA, San Francisco, CA](https://www.coinbase.com/careers/positions/2173648)</li></ul>|
 |Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern - MBA, Portland, OR](https://www.coinbase.com/careers/positions/2173652)</li></ul>|
 |Coinbase|US|Internship|<ul><li>[Summer 2020 Compliance Tools and Strategic Initiatives Intern](https://www.coinbase.com/careers/positions/2178790)</li></ul>|
