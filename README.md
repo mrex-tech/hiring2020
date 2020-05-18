@@ -366,6 +366,7 @@ This document will be updated regularly as new information becomes available. **
 |Mrytle Beach Pelicans|❌||
 |MullenLowe|❌||
 |National Geographic|❌|
+|National Geospatial-Intelligence Agency|❌|Cancelled all summer 2020 internships, but still processing TOP SECRET clearances and internship offer for summer 2021
 |National Institutes of Health|❌||
 |National Security Agency|❌|Cancelled all summer 2020 intternships|
 |Naval Research Enterprise Internship Program|❌|Cancelled all summer 2020 internships, but will still process SECRET clearances| 
