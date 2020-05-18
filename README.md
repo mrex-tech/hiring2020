@@ -107,7 +107,6 @@ This document will be updated regularly as new information becomes available. **
 |Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Marketing Intern](http://jobs.jobvite.com/beyondlimitsai/job/otflcfwZ)</li></ul>|
 |Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Data Science](http://jobs.jobvite.com/beyondlimitsai/job/oSyNafw7)</li></ul>|
 |Trusaic|US|Internship|<ul><li>[Data Operations Intern](https://boards.greenhouse.io/trusaic/jobs/4010445003)</li></ul>|
-|Trusaic|US|Internship|<ul><li>[Technical Product Associate Intern](https://boards.greenhouse.io/trusaic/jobs/4044284003)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Software Engineering](https://www.paclintra.com/careers/software-engineering-intern/)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Medical Affairs and Marketing](http://www.paclintra.com/careers/medical-affairs-marketing-intern/)</li></ul>|
 |Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Business Analyst - Internship](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Jeffersonville-IN/Promising-Entrepreneur---Business-Analyst---Internship_R9965)</li></ul>|
