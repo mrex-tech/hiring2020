@@ -16,6 +16,8 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Atlassian|AUS|Full-time|<ul><li>[Multiple](https://www.atlassian.com/company/careers/graduates#graduate-jobs)</li></ul>|
+|PagerDuty|US|Fall 2020 Internship|<ul><li>[Multiple](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP)</li></ul>|
 |Argo AI|US|Internship|<ul><li>[2020 Summer Internship - Camera R&D Intern Remote](https://boards.greenhouse.io/argo/jobs/1859659)</li></ul>|
 |Robinhood|US|Full-time|<ul><li>[Customer Experience Associate - New Grad](https://boards.greenhouse.io/robinhood/jobs/2184251)</li></ul>|
 |VMware|US|Full-time|<ul><li>[Software Developer - New Grad](https://careers.vmware.com/main/jobs/R1909908)</li></ul>|
@@ -27,8 +29,6 @@ This document will be updated regularly as new information becomes available. **
 |B. Braun Medical|US|Internship|<ul><li>[Multiple](https://bbrauncareers-bbraun.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchPositionType=8710)</li></ul>|
 |SAP|US|Internship|<ul><li>[Multiple](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=US)</li></ul>|
 |HP|US|Internship|<ul><li>[Data Sciences and Machine Learning Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Data-Sciences-and-Machine-Learning-Intern_3061295-1)</li></ul>|
-|HP|US|Internship|<ul><li>[Cloud Software Engineering Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Cloud-Software-Engineering-Intern_3061125-1)</li></ul>|
-|HP|US|Internship|<ul><li>[Data Scientist Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Boise-Idaho-United-States-of-America/Data-Scientist-Intern_3060992-1)</li></ul>|
 |Klara|US|Internship|<ul><li>[Product Management MBA Internship](https://boards.greenhouse.io/klara/jobs/4731919002?t=dffe74522us)</li></ul>|
 |Klara|US|Internship|<ul><li>[Go-to-Market MBA Internship](https://boards.greenhouse.io/klara/jobs/4731917002?t=dffe74522us)</li></ul>|
 |Fivestars|US|Internship|<ul><li>[IT Office Intern](https://www.fivestars.com/careers/?gh_jid=2185594)</li></ul>|
@@ -47,91 +47,45 @@ This document will be updated regularly as new information becomes available. **
 |Balbix|US|Internship|<ul><li>[Software Developer Intern](https://www.balbix.com/2020-internship/)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Onboarding and Engagement Intern](https://jobs.jobvite.com/ashoka/job/ob4dcfwo)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Product Management Intern](https://jobs.jobvite.com/ashoka/job/oUNCbfwe)</li></ul>|
-|Ashoka|US|Internship|<ul><li>[Executive Office Intern](https://jobs.jobvite.com/ashoka/job/oLiD9fwz)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Strategic Entrepreneur Relationships - MBA Intern](https://jobs.jobvite.com/ashoka/job/oGfDcfwu)</li></ul>|
-|Ashoka|US|Internship|<ul><li>[Ashoka - US Team - Intern](https://jobs.jobvite.com/ashoka/job/oMyCcfwS)</li></ul>|
 |Vatic Labs|US|Internship|<ul><li>[Quantitative Research Intern](http://www.vaticlabs.ai/careers/1751323/?gh_jid=1751323)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Algorithmic Trader](http://www.vaticlabs.ai/careers/72038/?gh_jid=72038)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Quantitative Researcher](http://www.vaticlabs.ai/careers/53549/?gh_jid=53549)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Software Engineer](http://www.vaticlabs.ai/careers/53508/?gh_jid=53508)</li></ul>|
 |ROI·DNA|US|Internship|<ul><li>[Visual Design Intern](https://boards.greenhouse.io/roidna/jobs/4727817002?gh_src=215a75432us)</li></ul>|
 |Dematic|US|Internship|<ul><li>[Product Management Intern](https://jobus-dematic.icims.com/jobs/12184/product-management-intern/job)</li></ul>|
-|Micro Focus|US|Internship|<ul><li>[Corporate Marketing Intern](https://jobs.microfocus.com/global/en/job/7015095/Corporate-Marketing-Intern)</li></ul>|
-|Micro Focus|US|Internship|<ul><li>[Product Technology Engineering Intern - Vertica](https://jobs.microfocus.com/global/en/job/7011757/Product-Technology-Engineering-Intern-Vertica)</li></ul>|
 |Micro Focus|US|Internship|<ul><li>[Product Technology Engineering Intern](https://jobs.microfocus.com/global/en/job/7011751/Product-Technology-Engineering-Intern)</li></ul>|
-|Micro Focus|US|Internship|<ul><li>[Technical Writer Intern - Vertica](https://jobs.microfocus.com/global/en/job/7011692/Technical-Writer-Intern-Vertica)</li></ul>|
-|CrowdStrike|US|Internship|<ul><li>[Web Service Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Web-Service-Intern--Remote-_R944-1?source=tmp_link)</li></ul>|
-|CrowdStrike|US|Internship|<ul><li>[Marketing Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Marketing-Intern--Remote-_R943?source=tmp_link)</li></ul>|
 |Equinix|US|Internship|<ul><li>[Intern: Strategic Alliances & Global Accounts](https://jumpstart.me/discover/jobs/equinix/intern-strategic-alliances-global-accounts/924a3531-4497-4a3e-bf30-2fe821ed9a78)</li></ul>|
 |Akamai Technologies|US|Full-time|<ul><li>[Associate Technical Project Manager - e-commerce travel and hospitality](https://akamaicareers.inflightcloud.com/app/ui/jobdetails/aka_ext/020927)</li></ul>|
-|Akamai Technologies|US|Full-time|<ul><li>[Q/A Engineer](https://akamaicareers.inflightcloud.com/app/ui/jobdetails/aka_ext/021032?searchable=%255B%255D)</li></ul>|
-|Twilio|US|Internship|<ul><li>[Marketing Intern - Foundry](https://boards.greenhouse.io/twilio/jobs/2177824)</li></ul>|
 |Paytm|IN|Internship|<ul><li>[Internship - General Application](https://jobs.lever.co/paytm/44b96240-d12a-4e26-81d3-1f8e2eec49e1)</li></ul>|
 |Shuffle|US|Internship|<ul><li>[Software Engineering Intern](https://www.notion.so/Software-Engineer-Intern-Shuffle-a69575e72c4344cda41abc214df71112)</li></ul>|
-|Cognizant|US|Full-time|<ul><li>[Multiple](https://careers.cognizant.com/studentandinterns/na/en/campus-jobs)</li></ul>|
 |Snowflake|US|Internship|<ul><li>[IT Compliance Intern](https://boards.greenhouse.io/snowflakecomputing/jobs/4721973002?t=ed5543a62)</li></ul>|
-|Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern - MBA, San Francisco, CA](https://www.coinbase.com/careers/positions/2173648)</li></ul>|
-|Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern - MBA, Portland, OR](https://www.coinbase.com/careers/positions/2173652)</li></ul>|
-|Coinbase|US|Internship|<ul><li>[Summer 2020 Compliance Tools and Strategic Initiatives Intern](https://www.coinbase.com/careers/positions/2178790)</li></ul>|
-|Salesforce|US|Internship|<ul><li>[Fall 2020 Co-op - Business Analyst](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Boston/Fall-2020-Co-op---Business-Analyst_JR63152-1)</li></ul>|
-|Salesforce|US|Internship|<ul><li>[Fall 2020 Co-op - Data and Automation Analyst](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Boston/Fall-2020-Co-op---Data-and-Automation-Analyst_JR63156-1)</li></ul>|
-|Salesforce|US|Internship|<ul><li>[User Research Intern - Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/User-Research-Intern_JR64729-1)</li></ul>|
-|FIS|US|Internship|<ul><li>[Intern Technology](https://careers.fisglobal.com/us/en/job/JR0110329/Intern-Technology)</li></ul>|
-|FIS|US|Internship|<ul><li>[Technical Analyst Intern - Summer Intern Associate Development Program 2020](https://careers.fisglobal.com/us/en/job/JR92762/Technical-Analyst-Intern-Summer-Intern-Associate-Development-Program-2020)</li></ul>|
-|FIS|US|Internship|<ul><li>[Global eCommerce - Strategic Accounts Intern](https://careers.fisglobal.com/us/en/job/JR0108712/Global-eCommerce-Strategic-Accounts-Intern)</li></ul>|
-|FIS|US|Internship|<ul><li>[Product Manager Associate - Summer Intern Associate Development Program 2020](https://careers.fisglobal.com/us/en/job/JR90588/Product-Manager-Associate-Summer-Intern-Associate-Development-Program-2020)</li></ul>|
-|FIS|US|Internship|<ul><li>[Risk Analyst - Summer Intern Associate Development Program 2020](https://careers.fisglobal.com/us/en/job/JR89841/Risk-Analyst-Summer-Intern-Associate-Development-Program-2020)</li></ul>|
-|FIS|US|Internship|<ul><li>[Business Analyst - Summer Intern Associate Development Program 2020](https://careers.fisglobal.com/us/en/job/JR89995/Business-Analyst-Summer-Intern-Associate-Development-Program-2020)</li></ul>|
-|ServiceNow|US|Internship|<ul><li>[UX Interaction Design Intern](https://jobs.jobvite.com/servicenow/job/oSklcfwt)</li></ul>|
-|ServiceNow|US|Internship|<ul><li>[Field Security Intern](https://jobs.jobvite.com/servicenow/job/oVhrcfwz)</li></ul>|
 |Apple|US|Internship|<ul><li>[Computer Vision Intern, CVPR 2020](https://jobs.apple.com/en-us/details/200168156/computer-vision-intern-cvpr-2020?team=SFTWR)</li></ul>|
-|Zscaler|US|Internship|<ul><li>[Business Value Analyst Intern, Summer 2020](https://jobs.jobvite.com/zscaler/job/oTqtcfwI)</li></ul>|
 |Paradox|US|Internship|<ul><li>[Software Product Management Intern](https://careers.paradox.ai/software-product-management-intern/job/12670134)</li></ul>|
 |Jam City|US|Internship|<ul><li>[Multiple](https://jobs.lever.co/jamcity?commitment=Internship)</li></ul>|
-|athenahealth|US|Internship|<ul><li>[MBA Internship](https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Watertown-MA/MBA-Internship_R946)</li></ul>|
 |Spoiler Alert|US|Internship|<ul><li>[MBA Summer Intern](https://spoileralertcareers.recruiterbox.com/jobs/fk0qskc/)</li></ul>|
-|Rowan|US|Internship|<ul><li>[Summer 2020 - MBA Intern](https://jobs.lever.co/heyrowan/a89e5c2f-384c-4f14-bcdf-da794e64a1eb)</li></ul>|
-|Atlassian|US|Full-time|<ul><li>[Online Marketing Associate - 2020 Graduate](https://www.atlassian.com/company/careers/detail/55d4a13a-1b90-4436-a0fd-2b95fbd44902)</li></ul>|
-|Atlassian|US|Full-time|<ul><li>[Business Systems Analyst, 2020 Graduate](https://www.atlassian.com/company/careers/detail/8ecdc0dc-79e4-4f2f-9d1a-6b0a3076fcf9)</li></ul>|
-|Asana|US|Full-time|<ul><li>[New Graduate: Software Engineering](https://asana.com/jobs/apply/1793586/new-graduate--software-engineering)</li></ul>|
 |JPMorgan|US|Internship|<ul><li>[Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship?jp_cmp=en%20/employerbrand/programmatic/FB_InsideSherpa_1200x628/namr&search=&tags=location__Americas__UnitedStatesofAmerica)</li></ul>|
 |Open Water Accelerator|US|Internship|<ul><li>[Software Engineering Intern](https://openwatervc.com/intern.html)</li></ul>|
-|TerraClear|US|Internship|<ul><li>[AI Software Engineering Intern](https://docs.google.com/document/d/e/2PACX-1vSwaiZwhy8dA-PjzE_fz_bLOcUE2J-PrQRO-PcjeHdtZwfDdPOenvIq3KkQfKAGghyXnO1-lCrwoOC7/pub)</li></ul>|
 |TwinStrand Biosciences|US|Internship|<ul><li>[Bioinformatics Science Intern](https://twinstrandbio.hrmdirect.com/employment/job-opening.php?req=1273938&&&nohd#job)</li></ul>|
-|UserTesting|US|Internship|<ul><li>[Sales Intern](https://www.usertesting.com/about-us/jobs?gh_jid=4046479003)</li></ul>|
-|UserTesting|US|Internship|<ul><li>[Sales Strategy Intern](https://www.usertesting.com/about-us/jobs?gh_jid=4045833003)</li></ul>|
 |Y Combinator|US|Internship|<ul><li>[Y Combinator Summer Internship Program](https://www.workatastartup.com/internships)</li></ul>|
 |Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Software Engineering](http://jobs.jobvite.com/beyondlimitsai/job/o9vNafwl)</li></ul>|
 |Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - MBA](http://jobs.jobvite.com/beyondlimitsai/job/oQBpcfwM)</li></ul>|
-|Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Marketing Intern](http://jobs.jobvite.com/beyondlimitsai/job/otflcfwZ)</li></ul>|
 |Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Data Science](http://jobs.jobvite.com/beyondlimitsai/job/oSyNafw7)</li></ul>|
 |Trusaic|US|Internship|<ul><li>[Data Operations Intern](https://boards.greenhouse.io/trusaic/jobs/4010445003)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Software Engineering](https://www.paclintra.com/careers/software-engineering-intern/)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Medical Affairs and Marketing](http://www.paclintra.com/careers/medical-affairs-marketing-intern/)</li></ul>|
-|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Business Analyst - Internship](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Jeffersonville-IN/Promising-Entrepreneur---Business-Analyst---Internship_R9965)</li></ul>|
 |Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Product Manager - Internship](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Pearl-River-NY/Promising-Entrepreneur---Product-Manager---Internship_R9963)</li></ul>|
-|Dexcom|US|Internship|<ul><li>[Intern - Software Development](https://careers.dexcom.com/job/DEXCUS4977/Intern-Software-Development)</li></ul>|
-|Masimo|US|Internship|<ul><li>[MBA Product Marketing Intern Summer 2020](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=MASIMO&cws=41&rid=4296)</li></ul>|
-|Masimo|US|Internship|<ul><li>[IT Helpdesk Intern](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=MASIMO&cws=41&rid=4232)</li></ul>|
 |Tesla|US|Fall 2020 Internship|<ul><li>[Software - Video Games Engineering Internship, Fall 2020](https://www.tesla.com/careers/job/software-videogamesengineeringinternshipfall2020-62784)</li></ul>|
 |Tesla|US|Fall 2020 Internship|<ul><li>[Systems Software Engineer Intern Fall 2020 - Autopilot](https://www.tesla.com/careers/job/systems-softwareengineerinternfall2020-autopilot-62886)</li></ul>|
 |Tesla|US|Internship|<ul><li>[Summer 2020 Internship, Data Platforms](https://www.tesla.com/careers/job/summer-2020internshipdataplatforms-62974)</li></ul>|
 |Tesla|US|Fall 2020 Internship|<ul><li>[Service Engineering Fall 2020 Intern – Charging Systems](https://www.tesla.com/careers/job/service-engineeringfall2020internchargingsystems-62977)</li></ul>|
-|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Perception Internship, Fall 2020](https://www.tesla.com/careers/job/autopilot-perceptioninternshipfall2020-63017)</li></ul>|
 |Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Motion Planning Engineer Intern, Fall 2020](https://www.tesla.com/careers/job/autopilot-motionplanningengineerinternfall2020-63023)</li></ul>|
-|mongoDB|US|Internship|<ul><li>[Technical Writer Intern - Summer 2020](https://www.mongodb.com/careers/jobs/2090083)</li></ul>|
-|UiPath|US|Internship|<ul><li>[Intern - Software Engineer, AI](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-software-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-ml-research-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer II](https://jobs.lever.co/uipath/0ed92faf-f138-4229-83c8-e8a8b5fdad72)</li></ul>|
 |Malwarebytes|US|Internship|<ul><li>[Summer Associate MBA Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
-|Pure Storage|US|Internship|<ul><li>[Cost Analyst Intern, Global Operations](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
-|Pure Storage|US|Internship|<ul><li>[IT Intern, Data Services](https://boards.greenhouse.io/purestorage/jobs/2160168)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[IT Intern, Software Automation](https://boards.greenhouse.io/purestorage/jobs/2160147)</li></ul>|
-|Pure Storage|US|Internship|<ul><li>[Marketing Intern, Competitive Intelligence](https://boards.greenhouse.io/purestorage/jobs/2124599)</li></ul>|
-|Pure Storage|US|Internship|<ul><li>[Marketing Intern, Project Management](https://boards.greenhouse.io/purestorage/jobs/2125670)</li></ul>|
 |Pure Storage|US|Full-time|<ul><li>[Software Engineer Grad](https://boards.greenhouse.io/purestorage/jobs/1834451)</li></ul>|
 |SunPower|US|Internship|<ul><li>[Project Development Intern](https://careers.sunpower.com/job/Boston-Project-Development-Intern-MA-02108/647069100/)</li></ul>|
-|Vouch Insurance|US|Internship|<ul><li>[Insurance Operations Intern](https://boards.greenhouse.io/vouchinsurance/jobs/4059835003?gh_jid=4059835003)</li></ul>|
 |Vouch Insurance|US|Internship|<ul><li>[Summer MBA Intern](https://boards.greenhouse.io/vouchinsurance/jobs/4059816003?gh_jid=4059816003)</li></ul>|
 |Argo AI|US|Internship|<ul><li>[Hardware Technical Program Manager Intern](https://www.argo.ai/join-us/#j1857895)</li></ul>|
 |Argo AI|US|Internship|<ul><li>[Lidar Processing](https://www.argo.ai/join-us/#j1939540)</li></ul>|
@@ -140,11 +94,7 @@ This document will be updated regularly as new information becomes available. **
 |Argo AI|US|Internship|<ul><li>[Software Engineering Intern, Onboard Infrastructure, C++](https://www.argo.ai/join-us/#j1862007)</li></ul>|
 |Pogo|US|Internship|<ul><li>[Product Design Summer Intern](https://jumpstart.me/discover/jobs/pogo/product-design-summer-intern/b231a633-9736-43d5-a44b-8accd2f31452)</li></ul>|
 |Pogo|US|Full-time|<ul><li>[Fullstack Software Engineer](https://jumpstart.me/discover/jobs/pogo/fullstack-software-engineer/bb940d77-f148-4a9d-896e-3dd2a9a2a3ca)</li></ul>|
-|Framework|US|Internship|<ul><li>[Electrical Engineering Intern](https://jobs.lever.co/framework/270a87d6-2c90-40f7-b467-535f62158cb1)</li></ul>|
-|Framework|US|Internship|<ul><li>[Firmware Intern](https://jobs.lever.co/framework/a4598a78-1c5f-4f77-8333-2f38e76744da)</li></ul>|
 |Mulberry|US|Internship|<ul><li>[Data Science & Analytics Internship](https://hire.withgoogle.com/public/jobs/getmulberrycom/view/P_AAAAAADAAHXDQ22ttRRRVq)</li></ul>|
-|RefleXion Medical|US|Internship|<ul><li>[Data Science Intern](https://boards.greenhouse.io/reflexionmedical/jobs/2071981)</li></ul>|
-|RefleXion Medical|US|Internship|<ul><li>[Firmware Engineering Intern](https://boards.greenhouse.io/reflexionmedical/jobs/2156083)</li></ul>|
 |The Round|US|Internship|<ul><li>[Marketing Intern](https://www.notion.so/Marketing-Intern-The-Round-72c0eb64d4584abe80967bdc5e0dbcfc)</li></ul>|
 |The Round|US|Internship|<ul><li>[Intern - Full-stack Engineer](https://www.notion.so/Intern-Full-stack-Engineer-The-Round-746146bc54b94ba382ca06f7e460555e)</li></ul>|
 |Zipline|US|Co-op/Internship|<ul><li>[Electrical Engineer](https://jobs.lever.co/flyzipline/8d73b761-13bb-45a7-8c69-e793dfc28ddc)</li></ul>|
@@ -152,17 +102,11 @@ This document will be updated regularly as new information becomes available. **
 |Amazon|US|Internship|<ul><li>[Amazon Science Internships](https://amazonscienceinternships2020.splashthat.com)</li></ul>|
 |AMD|US|Internship|<ul><li>[Multiple](https://jobs.amd.com/go/Students/2567200/)</li></ul>|
 |Anyscale|US|Internship|<ul><li>[Software Engineering](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5)</li></ul>|
-|Blend|US|Internship|<ul><li>[Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
 |Bloomberg|US/UK/HK|Full-time|<ul><li>[Software Engineering](https://www.bloomberg.com/company/engineering/)</li></ul>|
 |Citadel|US|Internship & Full-time|<ul><li>[Multiple](https://www.citadel.com/careers/open-positions/positions-for-students/)</li></ul>|
 |Cisco Meraki|US|Full-time|<ul><li>[Multiple](https://meraki.cisco.com/jobs)</li></ul>|
 |Equinix|US|Internship|<ul><li>[Multiple](https://equinix.wd1.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be)</li></ul>|
 |Five Rings Capital|US|Internship & Full-time|<ul><li>[Multiple](https://fiverings.com/apply/)</li></ul>|
-|Frame.io|US|Full-time|<ul><li>[Multiple](https://careers.frame.io/#open-roles)</li></ul>|
-|Lockheed Martin|US|Internship|<ul><li>[Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
-|Nvidia|US|Internship|<ul><li>[Compute Performance Developer Technology Intern - CUDA](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compute-Performance-Developer-Technology-Intern---CUDA_JR1918158)</li></ul>|
-|Nvidia|US|Internship|<ul><li>[Developer Technology Intern - AI](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern---AI_JR1920532)</li></ul>|
-|PagerDuty|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
 |Point72|US|Internship & Full-time|<ul><li>[Multiple](https://careers.point72.com/CSCareerSearch)</li></ul>|
 |Ribbon Health|US|Internship|<ul><li>[Software Engineer - Internship](https://jobs.lever.co/ribbonhealth/79823d89-798e-48c1-a4df-711a8f28a1d8/apply)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Digital Product Management MBA Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2034978)</li></ul>|
