@@ -1,7 +1,7 @@
 # Internships and Jobs for College Students
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-**If you are actively hiring or know of companies actively hiring**, please let us know by mailing at cr@hiring20.com
+**If you are actively hiring or know of companies actively hiring**, please let us know by mailing us at cr@hiring20.com
 
 Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular job updates.
 
