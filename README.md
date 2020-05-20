@@ -1,16 +1,12 @@
 # Internships and Jobs for College Students
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-**If you are actively hiring or know of companies actively hiring**, please fill this [form](https://forms.gle/PM7rdswc4Cx716WWA) to add a job to the actively hiring list. You can also mail us at cr@hiring20.com
+**If you are actively hiring or know of companies actively hiring**, please let us know by mailing at cr@hiring20.com
 
 **Follow us on social media for regular job updates.**
 1. [Linkedin](https://www.linkedin.com/company/hiring20)
 2. [Twitter](https://twitter.com/hiring2020)
 3. [Facebook](https://www.facebook.com/pg/hiring20/) 
-
-**Contribute by making a pull request or drop us a message on Twitter at [@hiring2020](https://twitter.com/hiring2020)**
-
-**Note**: If you are contributing to the actively hiring list, please don't add the entries in alphabetical order. New entries should be added at the top.
 
 ### Actively Hiring List
 
