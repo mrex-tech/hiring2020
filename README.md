@@ -3,10 +3,7 @@ This document will be updated regularly as new information becomes available. **
 
 **If you are actively hiring or know of companies actively hiring**, please let us know by mailing at cr@hiring20.com
 
-**Follow us on social media for regular job updates.**
-1. [Linkedin](https://www.linkedin.com/company/hiring20)
-2. [Twitter](https://twitter.com/hiring2020)
-3. [Facebook](https://www.facebook.com/pg/hiring20/) 
+**Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular job updates.**
 
 ### Actively Hiring List
 
