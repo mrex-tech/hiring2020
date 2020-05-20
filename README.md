@@ -828,7 +828,7 @@ This document will be updated regularly as new information becomes available. **
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
 |Verizon|✅|Verizon Wireless will be moving virtual.|
-|ViacomCBS|✅|Still evaluating plans for the summer 2020 internship program. We anticipate a decision very shortly so we can share next steps with you and your supervisors. |
+|ViacomCBS|✅|Program now virtual, shortened from 10 weeks to 7 weeks, and fewer hours per week (24 - 35 hr/wk)|
 |Viasat|✅|Number of positions was significantly reduced. Many were cancelled.|
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks. May 26 to July 17.|
 |VMware|✅|Remote. Housing stipend provided for some|
