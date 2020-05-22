@@ -13,7 +13,6 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |PagerDuty|US|Fall 2020 Internship|<ul><li>[Multiple](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP)</li></ul>|
 |Argo AI|US|Internship|<ul><li>[2020 Summer Internship - Camera R&D Intern Remote](https://boards.greenhouse.io/argo/jobs/1859659)</li></ul>|
 |Robinhood|US|Full-time|<ul><li>[Customer Experience Associate - New Grad](https://boards.greenhouse.io/robinhood/jobs/2184251)</li></ul>|
-|VMware|US|Full-time|<ul><li>[Software Developer - New Grad](https://careers.vmware.com/main/jobs/R1909908)</li></ul>|
 |L3Harris|US|Full-time|<ul><li>[Software Engineer - New Grad](https://harrisrccol.peoplefluent.com/res_viewjob.html?erjob=24686)</li></ul>|
 |Blend|US|Full-time|<ul><li>[Software Engineer - New Grad](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e)</li></ul>|
 |Impinj|US|Internship|<ul><li>[Marketing Intern](https://www.impinj.com/careers/job-openings?p=job%2Fox4Jcfwg)</li></ul>|
@@ -36,7 +35,6 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Alibaba|US|Internship|<ul><li>[Summer Research Intern](https://talent.alibaba.com/campus-position/12400)</li></ul>|
 |Coursera|IN|Internship|<ul><li>[Marketing Intern](https://jobs.lever.co/coursera/e903a438-b6e8-42ee-a3fa-f4c71a8c773a)</li></ul>|
 |Pulse Secure|US|Internship|<ul><li>[Finance Intern](https://pulsesecure.applytojob.com/apply/jobs/details/MAiMAQTKoU)</li></ul>|
-|Pulse Secure|US|Internship|<ul><li>[Software Engineering Intern](https://pulsesecure.applytojob.com/apply/jobs/details/UTb01PD4jr)</li></ul>|
 |Balbix|US|Internship|<ul><li>[Software Developer Intern](https://www.balbix.com/2020-internship/)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Onboarding and Engagement Intern](https://jobs.jobvite.com/ashoka/job/ob4dcfwo)</li></ul>|
 |Ashoka|US|Internship|<ul><li>[Product Management Intern](https://jobs.jobvite.com/ashoka/job/oUNCbfwe)</li></ul>|
@@ -49,25 +47,18 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Dematic|US|Internship|<ul><li>[Product Management Intern](https://jobus-dematic.icims.com/jobs/12184/product-management-intern/job)</li></ul>|
 |Micro Focus|US|Internship|<ul><li>[Product Technology Engineering Intern](https://jobs.microfocus.com/global/en/job/7011751/Product-Technology-Engineering-Intern)</li></ul>|
 |Equinix|US|Internship|<ul><li>[Intern: Strategic Alliances & Global Accounts](https://jumpstart.me/discover/jobs/equinix/intern-strategic-alliances-global-accounts/924a3531-4497-4a3e-bf30-2fe821ed9a78)</li></ul>|
-|Akamai Technologies|US|Full-time|<ul><li>[Associate Technical Project Manager - e-commerce travel and hospitality](https://akamaicareers.inflightcloud.com/app/ui/jobdetails/aka_ext/020927)</li></ul>|
 |Paytm|IN|Internship|<ul><li>[Internship - General Application](https://jobs.lever.co/paytm/44b96240-d12a-4e26-81d3-1f8e2eec49e1)</li></ul>|
 |Shuffle|US|Internship|<ul><li>[Software Engineering Intern](https://www.notion.so/Software-Engineer-Intern-Shuffle-a69575e72c4344cda41abc214df71112)</li></ul>|
-|Snowflake|US|Internship|<ul><li>[IT Compliance Intern](https://boards.greenhouse.io/snowflakecomputing/jobs/4721973002?t=ed5543a62)</li></ul>|
 |Apple|US|Internship|<ul><li>[Computer Vision Intern, CVPR 2020](https://jobs.apple.com/en-us/details/200168156/computer-vision-intern-cvpr-2020?team=SFTWR)</li></ul>|
 |Paradox|US|Internship|<ul><li>[Software Product Management Intern](https://careers.paradox.ai/software-product-management-intern/job/12670134)</li></ul>|
 |Jam City|US|Internship|<ul><li>[Multiple](https://jobs.lever.co/jamcity?commitment=Internship)</li></ul>|
-|Spoiler Alert|US|Internship|<ul><li>[MBA Summer Intern](https://spoileralertcareers.recruiterbox.com/jobs/fk0qskc/)</li></ul>|
 |JPMorgan|US|Internship|<ul><li>[Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship?jp_cmp=en%20/employerbrand/programmatic/FB_InsideSherpa_1200x628/namr&search=&tags=location__Americas__UnitedStatesofAmerica)</li></ul>|
 |Open Water Accelerator|US|Internship|<ul><li>[Software Engineering Intern](https://openwatervc.com/intern.html)</li></ul>|
 |TwinStrand Biosciences|US|Internship|<ul><li>[Bioinformatics Science Intern](https://twinstrandbio.hrmdirect.com/employment/job-opening.php?req=1273938&&&nohd#job)</li></ul>|
 |Y Combinator|US|Internship|<ul><li>[Y Combinator Summer Internship Program](https://www.workatastartup.com/internships)</li></ul>|
-|Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Software Engineering](http://jobs.jobvite.com/beyondlimitsai/job/o9vNafwl)</li></ul>|
-|Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - MBA](http://jobs.jobvite.com/beyondlimitsai/job/oQBpcfwM)</li></ul>|
-|Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Data Science](http://jobs.jobvite.com/beyondlimitsai/job/oSyNafw7)</li></ul>|
 |Trusaic|US|Internship|<ul><li>[Data Operations Intern](https://boards.greenhouse.io/trusaic/jobs/4010445003)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Software Engineering](https://www.paclintra.com/careers/software-engineering-intern/)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Medical Affairs and Marketing](http://www.paclintra.com/careers/medical-affairs-marketing-intern/)</li></ul>|
-|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Product Manager - Internship](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Pearl-River-NY/Promising-Entrepreneur---Product-Manager---Internship_R9963)</li></ul>|
 |Tesla|US|Fall 2020 Internship|<ul><li>[Software - Video Games Engineering Internship, Fall 2020](https://www.tesla.com/careers/job/software-videogamesengineeringinternshipfall2020-62784)</li></ul>|
 |Tesla|US|Fall 2020 Internship|<ul><li>[Systems Software Engineer Intern Fall 2020 - Autopilot](https://www.tesla.com/careers/job/systems-softwareengineerinternfall2020-autopilot-62886)</li></ul>|
 |Tesla|US|Internship|<ul><li>[Summer 2020 Internship, Data Platforms](https://www.tesla.com/careers/job/summer-2020internshipdataplatforms-62974)</li></ul>|
@@ -76,11 +67,9 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-ml-research-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer II](https://jobs.lever.co/uipath/0ed92faf-f138-4229-83c8-e8a8b5fdad72)</li></ul>|
 |Malwarebytes|US|Internship|<ul><li>[Summer Associate MBA Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
-|Pure Storage|US|Internship|<ul><li>[IT Intern, Software Automation](https://boards.greenhouse.io/purestorage/jobs/2160147)</li></ul>|
 |Pure Storage|US|Full-time|<ul><li>[Software Engineer Grad](https://boards.greenhouse.io/purestorage/jobs/1834451)</li></ul>|
 |SunPower|US|Internship|<ul><li>[Project Development Intern](https://careers.sunpower.com/job/Boston-Project-Development-Intern-MA-02108/647069100/)</li></ul>|
 |Vouch Insurance|US|Internship|<ul><li>[Summer MBA Intern](https://boards.greenhouse.io/vouchinsurance/jobs/4059816003?gh_jid=4059816003)</li></ul>|
-|Argo AI|US|Internship|<ul><li>[Hardware Technical Program Manager Intern](https://www.argo.ai/join-us/#j1857895)</li></ul>|
 |Argo AI|US|Internship|<ul><li>[Lidar Processing](https://www.argo.ai/join-us/#j1939540)</li></ul>|
 |Argo AI|US|Internship|<ul><li>[Software Engineering Intern, Analytics](https://www.argo.ai/join-us/#j2129448)</li></ul>|
 |Argo AI|US|Internship|<ul><li>[Software Engineering Intern, Autonomy](https://www.argo.ai/join-us/#j1870403)</li></ul>|
