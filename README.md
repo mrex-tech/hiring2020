@@ -9,6 +9,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|RockStar|US|Internship|<ul><li>[Marketing Internship](https://www.rockstar-interactions.com/careers/marketing-internship/)</li></ul>|
 |CertiK|US|Internship|<ul><li>[UI/UX Designer Internship](https://jobs.lever.co/certik/6c525a6c-c81c-4f2b-8c93-540c41f31da6/)</li></ul>|
 |Brex|US|Full-time|<ul><li>[Software Engineer, Product](https://brex.com/careers/?gh_jid=4382154002)</li></ul>|
 |Facebook|US|Full-time|<ul><li>[Software Engineer - Product](https://www.facebook.com/careers/v2/jobs/140499810729385/)</li></ul>|
