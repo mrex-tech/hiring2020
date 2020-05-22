@@ -9,6 +9,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Brex|US|Full-time|<ul><li>[Software Engineer, Product](https://brex.com/careers/?gh_jid=4382154002)</li></ul>|
 |Facebook|US|Full-time|<ul><li>[Software Engineer - Product](https://www.facebook.com/careers/v2/jobs/140499810729385/)</li></ul>|
 |Atlassian|AUS|Full-time|<ul><li>[Multiple](https://www.atlassian.com/company/careers/graduates#graduate-jobs)</li></ul>|
 |PagerDuty|US|Fall 2020 Internship|<ul><li>[Multiple](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP)</li></ul>|
