@@ -151,6 +151,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Booz Allen Hamilton|❌||
 |Bosch|❌|Decided to rescind offers after originally considering virtual internships.|
 |Boston Scientific|❌|Cancelled all internships and co-ops for all of 2020.|
+|Bridgewater associates|❌||
 |Bright Health|❌||
 |British Airways|❌|Postponed to 2021|
 |Broadsign|❌||
