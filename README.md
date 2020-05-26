@@ -9,6 +9,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|MealMe|US|Internship|<ul><li>[App Development Internship](https://www.mealme.ai/careers)</li></ul>|
 |Hitachi Vantara|US|Internship|<ul><li>[STEM Summer Internship - Java and Python](https://www.hitachivantara.com/en-us/company/careers/job-details.html#jobid=4733968002)</li></ul>|
 |RockStar|US|Internship|<ul><li>[Marketing Internship](https://www.rockstar-interactions.com/careers/marketing-internship/)</li></ul>|
 |CertiK|US|Internship|<ul><li>[UI/UX Designer Internship](https://jobs.lever.co/certik/6c525a6c-c81c-4f2b-8c93-540c41f31da6/)</li></ul>|
