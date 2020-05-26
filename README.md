@@ -586,7 +586,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Fromlabs|✅||
 |FTI Consulting|✅||
 |Gemography|✅|Remote Internship|
-|Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled, manufacturing internships cancelled at Oceanside location).|
+|Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled, manufacturing internships cancelled at Oceanside location). Some internships were cancelled after initial decision of being virtual.|
 |General Atomics|✅|100% happening. Some internships will be remote+partial onsite, others might be fully remote. Start date and internship duration will stay the same.|
 |General Electric|✅|Confirmed by company representative. No cancellations. Info by May 1.|
 |General Motors|✅|Delayed to beginning of June. Needs confirmation.|
