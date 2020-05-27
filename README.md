@@ -753,7 +753,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Samsung|✅|Remote internship. However, some positions may be cancelled where remote work is not possible.|
 |San Francisco MUNI|✅|Hiring Freeze|
 |Santander CIB|✅||
-|SAP|✅|Internship onboarding moving to virtual|
+|SAP|✅|Virtual|
 |SAS|✅|Remote|
 |SC Johnson|✅||
 |Scholastic|✅|Remote until NYC opens.|
