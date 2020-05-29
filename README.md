@@ -1,7 +1,9 @@
 # Jobs for College Students
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-If you are actively hiring or know of companies actively hiring, please let us know by mailing us at cr@hiring20.com
+If you are looking for 2021 internship and new grad positions, you can follow our repos below:
+ 1. [2021 Summer Internships](https://github.com/gcreddy42/internships)
+ 2. [2021 New Grad Positions](https://github.com/gcreddy42/newgrad)
 
 **Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular job updates.**
 
