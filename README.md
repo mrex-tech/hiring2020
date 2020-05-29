@@ -1,16 +1,13 @@
 # Jobs for College Students
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-If you are looking for 2021 summer internship and new grad positions, you can follow our repos below:
- 1. [2021 Summer Internships](https://github.com/gcreddy42/internships)
- 2. [2021 New Grad Positions](https://github.com/gcreddy42/newgrad)
-
 **Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular job updates.**
 
 ### Actively Hiring List
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|IMC Trading|US|Internship|<ul><li>[Software Engineer Intern - Summer 2021](https://careers.imc.com/us/en/job/REQ-00813/Software-Engineer-Intern-Summer-2021)</li></ul>|
 |MealMe|US|Internship|<ul><li>[App Development Internship](https://www.mealme.ai/careers)</li></ul>|
 |Hitachi Vantara|US|Internship|<ul><li>[STEM Summer Internship - Java and Python](https://www.hitachivantara.com/en-us/company/careers/job-details.html#jobid=4733968002)</li></ul>|
 |RockStar|US|Internship|<ul><li>[Marketing Internship](https://www.rockstar-interactions.com/careers/marketing-internship/)</li></ul>|
