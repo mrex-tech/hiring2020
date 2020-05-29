@@ -7,6 +7,7 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|IMC Trading|US|Internship|<ul><li>[Hardware Engineer Intern - Summer 2021](https://careers.imc.com/us/en/job/REQ-00871/Hardware-Engineer-Intern-Summer-2021)</li></ul>|
 |IMC Trading|US|Internship|<ul><li>[Software Engineer Intern - Summer 2021](https://careers.imc.com/us/en/job/REQ-00813/Software-Engineer-Intern-Summer-2021)</li></ul>|
 |MealMe|US|Internship|<ul><li>[App Development Internship](https://www.mealme.ai/careers)</li></ul>|
 |Hitachi Vantara|US|Internship|<ul><li>[STEM Summer Internship - Java and Python](https://www.hitachivantara.com/en-us/company/careers/job-details.html#jobid=4733968002)</li></ul>|
