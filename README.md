@@ -7,6 +7,8 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|IMC Trading|US|Full-time|<ul><li>[Graduate Software Engineer](https://careers.imc.com/us/en/job/REQ-00852/Graduate-Software-Engineer)</li></ul>|
+|IMC Trading|US|Full-time|<ul><li>[Graduate Hardware Engineer](https://careers.imc.com/us/en/job/REQ-00870/Graduate-Hardware-Engineer)</li></ul>|
 |IMC Trading|US|Internship|<ul><li>[Hardware Engineer Intern - Summer 2021](https://careers.imc.com/us/en/job/REQ-00871/Hardware-Engineer-Intern-Summer-2021)</li></ul>|
 |IMC Trading|US|Internship|<ul><li>[Software Engineer Intern - Summer 2021](https://careers.imc.com/us/en/job/REQ-00813/Software-Engineer-Intern-Summer-2021)</li></ul>|
 |MealMe|US|Internship|<ul><li>[App Development Internship](https://www.mealme.ai/careers)</li></ul>|
