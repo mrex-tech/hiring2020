@@ -7,6 +7,7 @@ This document will be updated regularly as new information becomes available. **
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Platform9 Systems|US|Internship|<ul><li>[Software Engineer Intern - Summer 2020](https://hire.withgoogle.com/public/jobs/platform9com/view/P_AAAAAADAAF5OEdk-bHtkWY)</li></ul>|
 |IMC Trading|US|Internship|<ul><li>[Quant Trader Intern - Summer 2021](https://careers.imc.com/us/en/job/REQ-00811/Quant-Trader-Intern-Summer-2021)</li></ul>|
 |IMC Trading|US|Full-time|<ul><li>[Graduate Quant Trader](https://careers.imc.com/us/en/job/REQ-00857/Graduate-Quant-Trader)</li></ul>|
 |IMC Trading|US|Full-time|<ul><li>[Graduate Software Engineer](https://careers.imc.com/us/en/job/REQ-00852/Graduate-Software-Engineer)</li></ul>|
@@ -727,6 +728,7 @@ This document will be updated regularly as new information becomes available. **
 |Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |PJT Partners|✅||
 |Plaid|✅|Interviews being cancelled. Hiring Freeze|
+|Platform9 Systems|✅|Remote|
 |PlayStation|✅|Remote. Start date moved to June 1st.|
 |PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. Lump-sum payment of $2500 for accounting (audit/tax) and $3500 for advisory. Additionally, full-time 2021 offer.|
 |Procore|✅|Hiring Freeze.|
