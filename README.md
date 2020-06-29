@@ -1,14 +1,20 @@
 # Jobs for College Students
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-If you are actively hiring or know of companies actively hiring, please let us know by mailing us at cr@hiring20.com
-
 **Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular job updates.**
 
 ### Actively Hiring List
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Platform9 Systems|US|Internship|<ul><li>[Software Engineer Intern - Summer 2020](https://hire.withgoogle.com/public/jobs/platform9com/view/P_AAAAAADAAF5OEdk-bHtkWY)</li></ul>|
+|IMC Trading|US|Internship|<ul><li>[Quant Trader Intern - Summer 2021](https://careers.imc.com/us/en/job/REQ-00811/Quant-Trader-Intern-Summer-2021)</li></ul>|
+|IMC Trading|US|Full-time|<ul><li>[Graduate Quant Trader](https://careers.imc.com/us/en/job/REQ-00857/Graduate-Quant-Trader)</li></ul>|
+|IMC Trading|US|Full-time|<ul><li>[Graduate Software Engineer](https://careers.imc.com/us/en/job/REQ-00852/Graduate-Software-Engineer)</li></ul>|
+|IMC Trading|US|Full-time|<ul><li>[Graduate Hardware Engineer](https://careers.imc.com/us/en/job/REQ-00870/Graduate-Hardware-Engineer)</li></ul>|
+|IMC Trading|US|Internship|<ul><li>[Hardware Engineer Intern - Summer 2021](https://careers.imc.com/us/en/job/REQ-00871/Hardware-Engineer-Intern-Summer-2021)</li></ul>|
+|IMC Trading|US|Internship|<ul><li>[Software Engineer Intern - Summer 2021](https://careers.imc.com/us/en/job/REQ-00813/Software-Engineer-Intern-Summer-2021)</li></ul>|
+|MealMe|US|Internship|<ul><li>[App Development Internship](https://www.mealme.ai/careers)</li></ul>|
 |Hitachi Vantara|US|Internship|<ul><li>[STEM Summer Internship - Java and Python](https://www.hitachivantara.com/en-us/company/careers/job-details.html#jobid=4733968002)</li></ul>|
 |RockStar|US|Internship|<ul><li>[Marketing Internship](https://www.rockstar-interactions.com/careers/marketing-internship/)</li></ul>|
 |CertiK|US|Internship|<ul><li>[UI/UX Designer Internship](https://jobs.lever.co/certik/6c525a6c-c81c-4f2b-8c93-540c41f31da6/)</li></ul>|
@@ -150,6 +156,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Booz Allen Hamilton|❌||
 |Bosch|❌|Decided to rescind offers after originally considering virtual internships.|
 |Boston Scientific|❌|Cancelled all internships and co-ops for all of 2020.|
+|Bridgewater associates|❌||
 |Bright Health|❌||
 |British Airways|❌|Postponed to 2021|
 |Broadsign|❌||
@@ -584,7 +591,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Fromlabs|✅||
 |FTI Consulting|✅||
 |Gemography|✅|Remote Internship|
-|Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled, manufacturing internships cancelled at Oceanside location).|
+|Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled, manufacturing internships cancelled at Oceanside location). Some internships were cancelled after initial decision of being virtual.|
 |General Atomics|✅|100% happening. Some internships will be remote+partial onsite, others might be fully remote. Start date and internship duration will stay the same.|
 |General Electric|✅|Confirmed by company representative. No cancellations. Info by May 1.|
 |General Motors|✅|Delayed to beginning of June. Needs confirmation.|
@@ -602,6 +609,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Gulfstream Aerospace|✅||
 |Harkins|✅|Hiring Freeze|
 |Hartford Steam Boiler|✅||
+|HBO|✅|Fully remote internship program for 7 weeks.|
 |HealthScape|✅|Start date pushed back by 3 weeks. Duration extended by 1 week.|
 |Hertz|✅|Pushed back to July|
 |Hilton|✅|Rescinding offers for on property positions. Corporate intern program too.|
@@ -720,6 +728,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |PJT Partners|✅||
 |Plaid|✅|Interviews being cancelled. Hiring Freeze|
+|Platform9 Systems|✅|Remote|
 |PlayStation|✅|Remote. Start date moved to June 1st.|
 |PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. Lump-sum payment of $2500 for accounting (audit/tax) and $3500 for advisory. Additionally, full-time 2021 offer.|
 |Procore|✅|Hiring Freeze.|
@@ -750,7 +759,7 @@ If you are actively hiring or know of companies actively hiring, please let us k
 |Samsung|✅|Remote internship. However, some positions may be cancelled where remote work is not possible.|
 |San Francisco MUNI|✅|Hiring Freeze|
 |Santander CIB|✅||
-|SAP|✅|Internship onboarding moving to virtual|
+|SAP|✅|Virtual|
 |SAS|✅|Remote|
 |SC Johnson|✅||
 |Scholastic|✅|Remote until NYC opens.|
